@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T11:44:00+02:00",
+  "lastUpdated": "2026-05-27T11:30:43.662Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -9,60 +9,181 @@
     {
       "category": "Startup funding",
       "sources": [
-        { "name": "TechCrunch", "url": "https://techcrunch.com/category/startups/" },
-        { "name": "Dealroom", "url": "https://app.dealroom.co" },
-        { "name": "Crunchbase News", "url": "https://news.crunchbase.com" },
-        { "name": "FinSMEs", "url": "https://www.finsmes.com" },
-        { "name": "Tech.eu", "url": "https://tech.eu" },
-        { "name": "Sifted", "url": "https://sifted.eu" },
-        { "name": "EU-Startups", "url": "https://www.eu-startups.com" },
-        { "name": "Tech Funding News", "url": "https://techfundingnews.com" }
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/category/startups/"
+        },
+        {
+          "name": "Dealroom",
+          "url": "https://app.dealroom.co"
+        },
+        {
+          "name": "Crunchbase News",
+          "url": "https://news.crunchbase.com"
+        },
+        {
+          "name": "FinSMEs",
+          "url": "https://www.finsmes.com"
+        },
+        {
+          "name": "Tech.eu",
+          "url": "https://tech.eu"
+        },
+        {
+          "name": "Sifted",
+          "url": "https://sifted.eu"
+        },
+        {
+          "name": "EU-Startups",
+          "url": "https://www.eu-startups.com"
+        },
+        {
+          "name": "Tech Funding News",
+          "url": "https://techfundingnews.com"
+        }
       ]
     },
     {
       "category": "Company announcements",
       "sources": [
-        { "name": "BusinessWire", "url": "https://www.businesswire.com" },
-        { "name": "GlobeNewswire", "url": "https://www.globenewswire.com" },
-        { "name": "PR Newswire", "url": "https://www.prnewswire.com" },
-        { "name": "EIN Presswire", "url": "https://www.einpresswire.com" }
+        {
+          "name": "BusinessWire",
+          "url": "https://www.businesswire.com"
+        },
+        {
+          "name": "GlobeNewswire",
+          "url": "https://www.globenewswire.com"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://www.prnewswire.com"
+        },
+        {
+          "name": "EIN Presswire",
+          "url": "https://www.einpresswire.com"
+        }
       ]
     },
     {
       "category": "Regional discovery",
       "sources": [
-        { "name": "Inc42", "url": "https://inc42.com" },
-        { "name": "YourStory", "url": "https://yourstory.com" },
-        { "name": "Tech in Asia", "url": "https://www.techinasia.com" },
-        { "name": "e27", "url": "https://e27.co" },
-        { "name": "KrASIA", "url": "https://kr-asia.com" },
-        { "name": "Wamda", "url": "https://www.wamda.com" }
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com"
+        },
+        {
+          "name": "Tech in Asia",
+          "url": "https://www.techinasia.com"
+        },
+        {
+          "name": "e27",
+          "url": "https://e27.co"
+        },
+        {
+          "name": "KrASIA",
+          "url": "https://kr-asia.com"
+        },
+        {
+          "name": "Wamda",
+          "url": "https://www.wamda.com"
+        }
       ]
     },
     {
       "category": "B2C niches",
       "sources": [
-        { "name": "VentureBeat", "url": "https://venturebeat.com" },
-        { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz" },
-        { "name": "Game Developer", "url": "https://www.gamedeveloper.com" },
-        { "name": "Food Business News", "url": "https://www.foodbusinessnews.net" },
-        { "name": "Modern Retail", "url": "https://www.modernretail.co" },
-        { "name": "Glossy", "url": "https://www.glossy.co" },
-        { "name": "Fitt Insider", "url": "https://insider.fitt.co" }
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com"
+        },
+        {
+          "name": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz"
+        },
+        {
+          "name": "Game Developer",
+          "url": "https://www.gamedeveloper.com"
+        },
+        {
+          "name": "Food Business News",
+          "url": "https://www.foodbusinessnews.net"
+        },
+        {
+          "name": "Modern Retail",
+          "url": "https://www.modernretail.co"
+        },
+        {
+          "name": "Glossy",
+          "url": "https://www.glossy.co"
+        },
+        {
+          "name": "Fitt Insider",
+          "url": "https://insider.fitt.co"
+        }
       ]
     },
     {
       "category": "Launch and hiring signals",
       "sources": [
-        { "name": "Product Hunt", "url": "https://www.producthunt.com" },
-        { "name": "Y Combinator", "url": "https://www.ycombinator.com/companies" },
-        { "name": "Wellfound", "url": "https://wellfound.com" },
-        { "name": "Otta", "url": "https://otta.com" },
-        { "name": "LinkedIn", "url": "https://www.linkedin.com" }
+        {
+          "name": "Product Hunt",
+          "url": "https://www.producthunt.com"
+        },
+        {
+          "name": "Y Combinator",
+          "url": "https://www.ycombinator.com/companies"
+        },
+        {
+          "name": "Wellfound",
+          "url": "https://wellfound.com"
+        },
+        {
+          "name": "Otta",
+          "url": "https://otta.com"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com"
+        }
       ]
     }
   ],
   "companies": [
+    {
+      "id": "ai-tech-funding-news",
+      "name": "AI",
+      "logoText": "A",
+      "tone": "coral",
+      "website": "https://techfundingnews.com/ex-palantir-team-bags-12m-seed-to-build-the-ai-operating-system-pharma-has-been-missing/",
+      "description": "Ex-Palantir team bags $12M seed to build the AI operating system pharma has been missing.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-05-27",
+      "fundingAmount": "$12M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/ex-palantir-team-bags-12m-seed-to-build-the-ai-operating-system-pharma-has-been-missing/"
+        }
+      ]
+    },
     {
       "id": "pacifico-biolabs",
       "name": "Pacifico Biolabs",
@@ -76,23 +197,49 @@
       "fundingAmount": "EUR 7M",
       "round": "Series A",
       "roundKey": "series-a",
-      "investors": ["FoodLabs", "Simon Capital", "Exceptional Ventures", "Sprout & About Ventures"],
+      "investors": [
+        "FoodLabs",
+        "Simon Capital",
+        "Exceptional Ventures",
+        "Sprout & About Ventures"
+      ],
       "employees": "11-50 public range",
       "status": "fresh",
-      "tags": ["FoodTech", "Alternative protein", "Future retail"],
+      "tags": [
+        "FoodTech",
+        "Alternative protein",
+        "Future retail"
+      ],
       "founders": [
-        { "name": "Zac Austin" },
-        { "name": "Washington Logrono", "linkedin": "https://de.linkedin.com/in/washington-logro%C3%B1o-118a9371" }
+        {
+          "name": "Zac Austin"
+        },
+        {
+          "name": "Washington Logrono",
+          "linkedin": "https://de.linkedin.com/in/washington-logro%C3%B1o-118a9371"
+        }
       ],
       "hiring": {
         "status": "active",
         "url": "https://de.linkedin.com/jobs/view/produktionsleiter-lebensmittelgewerbe-w-m-d-at-pacifico-biolabs-4377756365"
       },
       "sources": [
-        { "label": "Tech.eu", "url": "https://tech.eu/2026/05/27/pacifico-biolabs-raises-eur7m-to-turn-brewery-infrastructure-into-protein-production/" },
-        { "label": "Green Queen", "url": "https://www.greenqueen.com.hk/pacifico-biolabs-funding-mycelium-meat-fermentation-protein-beer-tanks/" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/pacifico-biolabs" },
-        { "label": "TechCrunch background", "url": "https://techcrunch.com/2024/02/16/pacifico-biolabs-fermentation-alternative-seafood/" }
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/05/27/pacifico-biolabs-raises-eur7m-to-turn-brewery-infrastructure-into-protein-production/"
+        },
+        {
+          "label": "Green Queen",
+          "url": "https://www.greenqueen.com.hk/pacifico-biolabs-funding-mycelium-meat-fermentation-protein-beer-tanks/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/pacifico-biolabs"
+        },
+        {
+          "label": "TechCrunch background",
+          "url": "https://techcrunch.com/2024/02/16/pacifico-biolabs-fermentation-alternative-seafood/"
+        }
       ]
     },
     {
@@ -108,23 +255,50 @@
       "fundingAmount": "USD 20M",
       "round": "Series A",
       "roundKey": "series-a",
-      "investors": ["Singular", "General Catalyst", "Y Combinator", "Angel investors"],
+      "investors": [
+        "Singular",
+        "General Catalyst",
+        "Y Combinator",
+        "Angel investors"
+      ],
       "employees": "About 20 public article count",
       "status": "fresh",
-      "tags": ["Biomarkers", "Preventive care", "AI health"],
+      "tags": [
+        "Biomarkers",
+        "Preventive care",
+        "AI health"
+      ],
       "founders": [
-        { "name": "Maxime Berthelot", "linkedin": "https://www.linkedin.com/in/maximeberthelot" },
-        { "name": "Baptiste Debever", "linkedin": "https://fr.linkedin.com/in/bdebever" },
-        { "name": "Max Guerois", "linkedin": "https://fr.linkedin.com/in/maxguerois" }
+        {
+          "name": "Maxime Berthelot",
+          "linkedin": "https://www.linkedin.com/in/maximeberthelot"
+        },
+        {
+          "name": "Baptiste Debever",
+          "linkedin": "https://fr.linkedin.com/in/bdebever"
+        },
+        {
+          "name": "Max Guerois",
+          "linkedin": "https://fr.linkedin.com/in/maxguerois"
+        }
       ],
       "hiring": {
         "status": "active",
         "url": "https://www.lucis.life/careers"
       },
       "sources": [
-        { "label": "Tech.eu", "url": "https://tech.eu/2026/05/26/lucis-raises-20m-series-a-to-expand-ai-driven-preventive-healthcare-platform/" },
-        { "label": "EU-Startups", "url": "https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/" },
-        { "label": "LinkedIn hiring signal", "url": "https://www.linkedin.com/posts/bdebever_5000-members-4-countries-10-growth-every-activity-7439252441243693056-qKQf" }
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/05/26/lucis-raises-20m-series-a-to-expand-ai-driven-preventive-healthcare-platform/"
+        },
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/"
+        },
+        {
+          "label": "LinkedIn hiring signal",
+          "url": "https://www.linkedin.com/posts/bdebever_5000-members-4-countries-10-growth-every-activity-7439252441243693056-qKQf"
+        }
       ]
     },
     {
@@ -140,21 +314,52 @@
       "fundingAmount": "USD 3M",
       "round": "Pre-seed",
       "roundKey": "pre-seed",
-      "investors": ["Michigan Rise", "Union Heritage Ventures", "Flybridge", "Also Capital", "Detroit Venture Partners", "Song United", "Invest Detroit", "Ann Arbor Spark Capital", "84I90", "Georgetown Gain", "Segal Ventures"],
+      "investors": [
+        "Michigan Rise",
+        "Union Heritage Ventures",
+        "Flybridge",
+        "Also Capital",
+        "Detroit Venture Partners",
+        "Song United",
+        "Invest Detroit",
+        "Ann Arbor Spark Capital",
+        "84I90",
+        "Georgetown Gain",
+        "Segal Ventures"
+      ],
       "employees": "2-10 public range",
       "status": "fresh",
-      "tags": ["Kids media", "Streaming", "Family"],
+      "tags": [
+        "Kids media",
+        "Streaming",
+        "Family"
+      ],
       "founders": [
-        { "name": "Isabel Sheinman", "linkedin": "https://www.linkedin.com/in/isabel-sheinman-98021079" },
-        { "name": "Tanyella Leta", "linkedin": "https://www.linkedin.com/in/tanyella-leta-46691a19" }
+        {
+          "name": "Isabel Sheinman",
+          "linkedin": "https://www.linkedin.com/in/isabel-sheinman-98021079"
+        },
+        {
+          "name": "Tanyella Leta",
+          "linkedin": "https://www.linkedin.com/in/tanyella-leta-46691a19"
+        }
       ],
       "hiring": {
         "status": "none"
       },
       "sources": [
-        { "label": "TechCrunch", "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/maka-kids" },
-        { "label": "Website", "url": "https://www.makakids.com" }
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/maka-kids"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.makakids.com"
+        }
       ]
     },
     {
@@ -170,21 +375,47 @@
       "fundingAmount": "USD 700M+",
       "round": "Series A",
       "roundKey": "series-a",
-      "investors": ["Parkway Venture Capital", "Nvidia", "AMD Ventures", "ARK Invest", "Brookfield", "Greycroft", "Intel Capital", "Qualcomm Ventures", "Salesforce Ventures"],
+      "investors": [
+        "Parkway Venture Capital",
+        "Nvidia",
+        "AMD Ventures",
+        "ARK Invest",
+        "Brookfield",
+        "Greycroft",
+        "Intel Capital",
+        "Qualcomm Ventures",
+        "Salesforce Ventures"
+      ],
       "employees": "70+ public hiring signal",
       "status": "fresh",
-      "tags": ["AI assistant", "Hardware", "Personal intelligence"],
+      "tags": [
+        "AI assistant",
+        "Hardware",
+        "Personal intelligence"
+      ],
       "founders": [
-        { "name": "Brett Adcock", "linkedin": "https://www.linkedin.com/in/brettadcock" }
+        {
+          "name": "Brett Adcock",
+          "linkedin": "https://www.linkedin.com/in/brettadcock"
+        }
       ],
       "hiring": {
         "status": "active",
         "url": "https://hark.com/careers"
       },
       "sources": [
-        { "label": "TechCrunch", "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/" },
-        { "label": "BusinessWire mirror", "url": "https://www.streetinsider.com/Business%2BWire/Hark%2BRaises%2B%24700M%2BSeries%2BA%2Bat%2Ba%2B%246B%2BValuation/26532774.html" },
-        { "label": "Hiring signal", "url": "https://www.linkedin.com/posts/brettadcock_hark-just-crossed-70-people-and-were-hiring-activity-7459262013307842561-Ecv2" }
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
+        },
+        {
+          "label": "BusinessWire mirror",
+          "url": "https://www.streetinsider.com/Business%2BWire/Hark%2BRaises%2B%24700M%2BSeries%2BA%2Bat%2Ba%2B%246B%2BValuation/26532774.html"
+        },
+        {
+          "label": "Hiring signal",
+          "url": "https://www.linkedin.com/posts/brettadcock_hark-just-crossed-70-people-and-were-hiring-activity-7459262013307842561-Ecv2"
+        }
       ]
     },
     {
@@ -200,23 +431,45 @@
       "fundingAmount": "USD 3.5M",
       "round": "Seed",
       "roundKey": "seed",
-      "investors": ["Undisclosed / reported strategic investors"],
+      "investors": [
+        "Undisclosed / reported strategic investors"
+      ],
       "employees": "11-50 public range",
       "status": "fresh",
-      "tags": ["Wellness", "Neurotech", "Wearables"],
+      "tags": [
+        "Wellness",
+        "Neurotech",
+        "Wearables"
+      ],
       "founders": [
-        { "name": "Ria Rustagi" },
-        { "name": "Bhavya Madan" }
+        {
+          "name": "Ria Rustagi"
+        },
+        {
+          "name": "Bhavya Madan"
+        }
       ],
       "hiring": {
         "status": "open",
         "url": "https://www.sychedelic.com/aboutus/"
       },
       "sources": [
-        { "label": "Funding article", "url": "https://entrepreneurnewsnetwork.com/2026/05/20/sychedelic-raises-3-5-million-to-expand-ai-powered-neurotechnology-wearables-globally/" },
-        { "label": "LinkedIn", "url": "https://in.linkedin.com/company/sychedelic" },
-        { "label": "Team", "url": "https://www.sychedelic.com/aboutus/" },
-        { "label": "Dealroom", "url": "https://app.dealroom.co/companies/sychedelic" }
+        {
+          "label": "Funding article",
+          "url": "https://entrepreneurnewsnetwork.com/2026/05/20/sychedelic-raises-3-5-million-to-expand-ai-powered-neurotechnology-wearables-globally/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://in.linkedin.com/company/sychedelic"
+        },
+        {
+          "label": "Team",
+          "url": "https://www.sychedelic.com/aboutus/"
+        },
+        {
+          "label": "Dealroom",
+          "url": "https://app.dealroom.co/companies/sychedelic"
+        }
       ]
     },
     {
@@ -232,20 +485,37 @@
       "fundingAmount": "USD 500K",
       "round": "Seed",
       "roundKey": "seed",
-      "investors": ["Cap Ventures 8182"],
+      "investors": [
+        "Cap Ventures 8182"
+      ],
       "employees": "1-10 public range",
       "status": "fresh",
-      "tags": ["Food", "DTC", "Sustainability"],
+      "tags": [
+        "Food",
+        "DTC",
+        "Sustainability"
+      ],
       "founders": [
-        { "name": "Yousuf Ahmed" }
+        {
+          "name": "Yousuf Ahmed"
+        }
       ],
       "hiring": {
         "status": "none"
       },
       "sources": [
-        { "label": "Food Business News", "url": "https://www.foodbusinessnews.net/articles/30333-b-sides-raises-500-000-in-seed-round" },
-        { "label": "Citybiz", "url": "https://www.citybiz.co/article/848680/b-sides-raises-500k-seed-round-to-expand-retail-distribution-and-supply-chain-operations/" },
-        { "label": "Fundup", "url": "https://fundup.ai/recently-funded-startups/company/79381c7a4950c0797fbae77dd5bfd5347a945f73e262ee181cadca93f2743445/b-sides" }
+        {
+          "label": "Food Business News",
+          "url": "https://www.foodbusinessnews.net/articles/30333-b-sides-raises-500-000-in-seed-round"
+        },
+        {
+          "label": "Citybiz",
+          "url": "https://www.citybiz.co/article/848680/b-sides-raises-500k-seed-round-to-expand-retail-distribution-and-supply-chain-operations/"
+        },
+        {
+          "label": "Fundup",
+          "url": "https://fundup.ai/recently-funded-startups/company/79381c7a4950c0797fbae77dd5bfd5347a945f73e262ee181cadca93f2743445/b-sides"
+        }
       ]
     },
     {
@@ -261,25 +531,57 @@
       "fundingAmount": "USD 9M",
       "round": "Seed",
       "roundKey": "seed",
-      "investors": ["Maveron", "Town Hall Ventures", "Flex Capital", "Eniac Ventures", "Pear VC"],
+      "investors": [
+        "Maveron",
+        "Town Hall Ventures",
+        "Flex Capital",
+        "Eniac Ventures",
+        "Pear VC"
+      ],
       "employees": "2-10 public range",
       "status": "fresh",
-      "tags": ["Patient app", "AI notes", "Care navigation"],
+      "tags": [
+        "Patient app",
+        "AI notes",
+        "Care navigation"
+      ],
       "founders": [
-        { "name": "Arpan Parikh", "linkedin": "https://www.linkedin.com/in/arpanparikhmd" },
-        { "name": "Amit Parikh" },
-        { "name": "Kyle Alwyn" }
+        {
+          "name": "Arpan Parikh",
+          "linkedin": "https://www.linkedin.com/in/arpanparikhmd"
+        },
+        {
+          "name": "Amit Parikh"
+        },
+        {
+          "name": "Kyle Alwyn"
+        }
       ],
       "hiring": {
         "status": "active",
         "url": "https://www.meetkin.com/careers"
       },
       "sources": [
-        { "label": "TechCrunch", "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/" },
-        { "label": "BusinessWire mirror", "url": "https://finance.yahoo.com/sectors/healthcare/articles/kin-health-raises-9m-patients-212700651.html" },
-        { "label": "About", "url": "https://www.meetkin.com/about" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/meetkin" },
-        { "label": "Careers", "url": "https://www.meetkin.com/careers" }
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/"
+        },
+        {
+          "label": "BusinessWire mirror",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/kin-health-raises-9m-patients-212700651.html"
+        },
+        {
+          "label": "About",
+          "url": "https://www.meetkin.com/about"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/meetkin"
+        },
+        {
+          "label": "Careers",
+          "url": "https://www.meetkin.com/careers"
+        }
       ]
     },
     {
@@ -295,20 +597,37 @@
       "fundingAmount": "USD 15M",
       "round": "Seed",
       "roundKey": "seed",
-      "investors": ["XYZ Ventures"],
+      "investors": [
+        "XYZ Ventures"
+      ],
       "employees": "2-10 public range",
       "status": "fresh",
-      "tags": ["Heart health", "DTC device", "Preventive care"],
+      "tags": [
+        "Heart health",
+        "DTC device",
+        "Preventive care"
+      ],
       "founders": [
-        { "name": "Tom Moss" }
+        {
+          "name": "Tom Moss"
+        }
       ],
       "hiring": {
         "status": "none"
       },
       "sources": [
-        { "label": "VentureBurn", "url": "https://ventureburn.com/vital-signals-raises-15m-blood-pressure-health-tech/" },
-        { "label": "Axios Pro snippet", "url": "https://www.axios.com/pro/health-tech-deals/2026/05/18/vital-signals-raise-dtc-blood-pressure" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/vital-signals-health" }
+        {
+          "label": "VentureBurn",
+          "url": "https://ventureburn.com/vital-signals-raises-15m-blood-pressure-health-tech/"
+        },
+        {
+          "label": "Axios Pro snippet",
+          "url": "https://www.axios.com/pro/health-tech-deals/2026/05/18/vital-signals-raise-dtc-blood-pressure"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/vital-signals-health"
+        }
       ]
     },
     {
@@ -324,25 +643,55 @@
       "fundingAmount": "USD 2M",
       "round": "Pre-seed",
       "roundKey": "pre-seed",
-      "investors": ["APY Ventures", "Inveo Ventures", "Ak Portfoy GSYF"],
+      "investors": [
+        "APY Ventures",
+        "Inveo Ventures",
+        "Ak Portfoy GSYF"
+      ],
       "employees": "2-10 public range",
       "status": "catch-up",
-      "tags": ["Gaming", "AI production", "Mobile"],
+      "tags": [
+        "Gaming",
+        "AI production",
+        "Mobile"
+      ],
       "founders": [
-        { "name": "R. Tamer Ozgen" },
-        { "name": "Umut Yildiz", "linkedin": "https://tr.linkedin.com/in/umutyildiz" },
-        { "name": "Sarper Karabag", "linkedin": "https://tr.linkedin.com/in/sarper-karabag" },
-        { "name": "Doguscan Ozturk" }
+        {
+          "name": "R. Tamer Ozgen"
+        },
+        {
+          "name": "Umut Yildiz",
+          "linkedin": "https://tr.linkedin.com/in/umutyildiz"
+        },
+        {
+          "name": "Sarper Karabag",
+          "linkedin": "https://tr.linkedin.com/in/sarper-karabag"
+        },
+        {
+          "name": "Doguscan Ozturk"
+        }
       ],
       "hiring": {
         "status": "active",
         "url": "https://mindtail.co/team/"
       },
       "sources": [
-        { "label": "Daily Sabah", "url": "https://www.dailysabah.com/business/tech/mindtail-debuts-with-2-million-in-seed-funding" },
-        { "label": "Game Developer", "url": "https://www.gamedeveloper.com/business/mobile-dev-mindtail-raises-2m-fund-for-ai-powered-games" },
-        { "label": "Team", "url": "https://mindtail.co/team/" },
-        { "label": "Dealroom", "url": "https://app.dealroom.co/companies/mindtail" }
+        {
+          "label": "Daily Sabah",
+          "url": "https://www.dailysabah.com/business/tech/mindtail-debuts-with-2-million-in-seed-funding"
+        },
+        {
+          "label": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/mobile-dev-mindtail-raises-2m-fund-for-ai-powered-games"
+        },
+        {
+          "label": "Team",
+          "url": "https://mindtail.co/team/"
+        },
+        {
+          "label": "Dealroom",
+          "url": "https://app.dealroom.co/companies/mindtail"
+        }
       ]
     },
     {
@@ -358,23 +707,49 @@
       "fundingAmount": "USD 14.7M",
       "round": "Seed",
       "roundKey": "seed",
-      "investors": ["Andreessen Horowitz", "Kindred Ventures", "Greylock", "SV Angel", "20VC"],
+      "investors": [
+        "Andreessen Horowitz",
+        "Kindred Ventures",
+        "Greylock",
+        "SV Angel",
+        "20VC"
+      ],
       "employees": "Public LinkedIn count limited",
       "status": "catch-up",
-      "tags": ["Commerce", "Marketplace", "Creators"],
+      "tags": [
+        "Commerce",
+        "Marketplace",
+        "Creators"
+      ],
       "founders": [
-        { "name": "Eddie Koai" },
-        { "name": "Patrick Mandia" },
-        { "name": "Khoi Tran", "linkedin": "https://www.linkedin.com/in/khoitran" }
+        {
+          "name": "Eddie Koai"
+        },
+        {
+          "name": "Patrick Mandia"
+        },
+        {
+          "name": "Khoi Tran",
+          "linkedin": "https://www.linkedin.com/in/khoitran"
+        }
       ],
       "hiring": {
         "status": "open",
         "url": "https://district.net"
       },
       "sources": [
-        { "label": "BusinessWire", "url": "https://www.businesswire.com/news/home/20260506903958/en/District-Raises-%2414.7M-in-Seed-Funding" },
-        { "label": "Fortune", "url": "https://fortune.com/2026/05/06/district-snap-seed/" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/districtdotnet" }
+        {
+          "label": "BusinessWire",
+          "url": "https://www.businesswire.com/news/home/20260506903958/en/District-Raises-%2414.7M-in-Seed-Funding"
+        },
+        {
+          "label": "Fortune",
+          "url": "https://fortune.com/2026/05/06/district-snap-seed/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/districtdotnet"
+        }
       ]
     },
     {
@@ -390,22 +765,44 @@
       "fundingAmount": "USD 5.1M",
       "round": "Pre-seed",
       "roundKey": "pre-seed",
-      "investors": ["Iqram Magdon-Ismail", "Pear VC", "Steve Huffman", "Edward Tian"],
+      "investors": [
+        "Iqram Magdon-Ismail",
+        "Pear VC",
+        "Steve Huffman",
+        "Edward Tian"
+      ],
       "employees": "2-10 public range",
       "status": "catch-up",
-      "tags": ["Social", "AI matching", "Messaging"],
+      "tags": [
+        "Social",
+        "AI matching",
+        "Messaging"
+      ],
       "founders": [
-        { "name": "Nathaneo Johnson" },
-        { "name": "Sean Hargrow" }
+        {
+          "name": "Nathaneo Johnson"
+        },
+        {
+          "name": "Sean Hargrow"
+        }
       ],
       "hiring": {
         "status": "open",
         "url": "https://www.series.so/"
       },
       "sources": [
-        { "label": "TechCrunch", "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/company/joinseries" },
-        { "label": "Forbes", "url": "https://www.forbes.com/profile/series/" }
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/joinseries"
+        },
+        {
+          "label": "Forbes",
+          "url": "https://www.forbes.com/profile/series/"
+        }
       ]
     }
   ]
