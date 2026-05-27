@@ -1,0 +1,17 @@
+{
+  "name": "B2C Startup Radar",
+  "short_name": "B2C Radar",
+  "description": "Daily global early-stage B2C startup funding radar.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#0f3d3e",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

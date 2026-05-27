@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="AMS Startup Radar logo">
+  <rect width="128" height="128" rx="26" fill="#0f3d3e"/>
+  <text x="64" y="75" fill="#f7fbfa" font-family="Arial, sans-serif" font-size="32" font-weight="900" text-anchor="middle">B2C</text>
+  <path d="M91 35c11 12 14 29 8 45" fill="none" stroke="#d9f1e8" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="95" cy="91" r="8" fill="#d75d3f"/>
+</svg>

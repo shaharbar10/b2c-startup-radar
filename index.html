@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0f3d3e" />
+    <title>B2C Startup Radar</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="data/startups.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#top" aria-label="B2C Startup Radar home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" role="img">
+              <rect x="4" y="4" width="40" height="40" rx="9"></rect>
+              <text x="24" y="29">B2C</text>
+              <path d="M34 14c3 3 4 7 3 11"></path>
+            </svg>
+          </span>
+          <span>
+            <strong>B2C Startup Radar</strong>
+            <small>Global consumer startup funding</small>
+          </span>
+        </a>
+        <button class="quiet-button" id="sourceButton" type="button">Sources</button>
+      </header>
+
+      <main id="top">
+        <section class="control-panel" aria-labelledby="radarTitle">
+          <div>
+            <p class="eyebrow" id="lastUpdated">Updating...</p>
+            <h1 id="radarTitle">Consumer startups worth knowing</h1>
+          </div>
+
+          <div class="metrics" aria-label="Digest summary">
+            <div>
+              <strong id="companyCount">0</strong>
+              <span>tracked</span>
+            </div>
+            <div>
+              <strong id="freshCount">0</strong>
+              <span>fresh</span>
+            </div>
+            <div>
+              <strong id="hiringCount">0</strong>
+              <span>hiring</span>
+            </div>
+          </div>
+
+          <label class="search-box">
+            <span>Search companies, founders, industries</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="wellness, gaming, social..." />
+          </label>
+
+          <div class="filter-row" aria-label="Funding and hiring filters">
+            <button class="chip is-active" type="button" data-filter="all">All</button>
+            <button class="chip" type="button" data-filter="fresh">New</button>
+            <button class="chip" type="button" data-filter="hiring">Hiring</button>
+            <button class="chip" type="button" data-filter="pre-seed">Pre-seed</button>
+            <button class="chip" type="button" data-filter="seed">Seed</button>
+            <button class="chip" type="button" data-filter="series-a">Series A</button>
+          </div>
+        </section>
+
+        <section class="list-section" aria-live="polite">
+          <div class="section-heading">
+            <h2>Companies</h2>
+            <span id="resultCount">0 results</span>
+          </div>
+          <div id="companyList" class="company-list"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <strong>No matches yet</strong>
+            <p>Try a broader search or switch back to all companies.</p>
+          </div>
+        </section>
+      </main>
+
+      <aside class="source-sheet" id="sourceSheet" aria-hidden="true">
+        <div class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="sourceTitle">
+          <div class="sheet-head">
+            <div>
+              <p class="eyebrow">Coverage</p>
+              <h2 id="sourceTitle">How the radar is updated</h2>
+            </div>
+            <button class="close-button" id="closeSources" type="button" aria-label="Close sources">Close</button>
+          </div>
+          <div id="sourceCoverage" class="source-copy"></div>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>

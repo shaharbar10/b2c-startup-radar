@@ -1,0 +1,56 @@
+name: Daily update and publish
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Update startup data from public sources
+        run: node scripts/update-from-public-sources.mjs
+
+      - name: Commit data update
+        run: |
+          git config user.name "startup-radar-bot"
+          git config user.email "startup-radar-bot@users.noreply.github.com"
+          git add data/startups.json data/startups.js
+          git diff --cached --quiet || git commit -m "Update B2C startup radar data"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4
