@@ -53,7 +53,7 @@ function formatDate(value) {
 function relativeUpdated(value) {
   if (!value) return "Last update unknown";
   const date = new Date(value);
-  return `Updated ${formatDate(date)} at ${date.toLocaleTimeString("en-GB", {
+  return `Last updated: ${formatDate(date)} at ${date.toLocaleTimeString("en-GB", {
     hour: "2-digit",
     minute: "2-digit"
   })}`;

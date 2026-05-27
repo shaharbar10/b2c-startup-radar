@@ -139,6 +139,13 @@ input {
   padding: 0 12px;
 }
 
+.update-strip {
+  margin: -2px 0 8px;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
 .control-panel {
   display: grid;
   gap: 18px;
