@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T11:30:43.662Z",
+  "lastUpdated": "2026-06-01T12:15:32.562Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@
     }
   ],
   "companies": [
+    {
+      "id": "invisix-eu-startups",
+      "name": "Invisix",
+      "logoText": "I",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/asml-spin-out-invisix-raises-e20-million-seed-round-to-help-chipmakers-build-what-they-cant-yet-see/",
+      "description": "ASML spin-out Invisix raises €20 million Seed round to help chipmakers build what they “can’t yet see”.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-01",
+      "fundingAmount": "€20 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/asml-spin-out-invisix-raises-e20-million-seed-round-to-help-chipmakers-build-what-they-cant-yet-see/"
+        }
+      ]
+    },
+    {
+      "id": "wild-eu-startups",
+      "name": "Wild",
+      "logoText": "W",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/",
+      "description": "Lune & Wild raises €2.3 million to scale female-founded, chef-led baby and children’s food brand.",
+      "industry": "Consumer packaged goods",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-01",
+      "fundingAmount": "€2.3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/"
+        }
+      ]
+    },
+    {
+      "id": "return-helper-tech-eu",
+      "name": "Return Helper",
+      "logoText": "RH",
+      "tone": "amber",
+      "website": "https://tech.eu/2026/06/01/return-helper-raises-4m-series-a-to-turn-cross-border-ecommerce-returns-into-profit-with-ai/",
+      "description": "Return Helper raises $4M Series A to turn cross-border ecommerce returns into profit with AI [Sponsored].",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-01",
+      "fundingAmount": "$4M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/01/return-helper-raises-4m-series-a-to-turn-cross-border-ecommerce-returns-into-profit-with-ai/"
+        }
+      ]
+    },
     {
       "id": "ai-tech-funding-news",
       "name": "AI",
