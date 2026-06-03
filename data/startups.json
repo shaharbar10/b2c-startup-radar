@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T11:01:06.175Z",
+  "lastUpdated": "2026-06-03T11:26:16.262Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "brynn-putnam-techcrunch",
+      "name": "Brynn Putnam",
+      "logoText": "BP",
+      "tone": "blue",
+      "website": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+      "description": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands.",
+      "industry": "Gaming",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-02",
+      "fundingAmount": "$20M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/"
+        }
+      ]
+    },
+    {
+      "id": "flok-health-tech-eu",
+      "name": "Flok Health",
+      "logoText": "FH",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/06/03/flok-health-lands-125m-to-grow-its-ai-operated-healthcare-platform/",
+      "description": "Flok Health lands $12.5M to grow its AI-operated healthcare platform.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-03",
+      "fundingAmount": "$12.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/03/flok-health-lands-125m-to-grow-its-ai-operated-healthcare-platform/"
+        }
+      ]
+    },
     {
       "id": "modelia-eu-startups",
       "name": "Modelia",
