@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-03T11:26:16.262Z",
+  "lastUpdated": "2026-06-04T10:14:46.419Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "widen-product-range-inc42",
+      "name": "Widen Product Range",
+      "logoText": "WP",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/firstclub-nets-55-mn-to-expand-store-footprint-widen-product-range/",
+      "description": "FirstClub Nets $55 Mn To Expand Store Footprint, Widen Product Range.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-03",
+      "fundingAmount": "$55 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/firstclub-nets-55-mn-to-expand-store-footprint-widen-product-range/"
+        }
+      ]
+    },
+    {
+      "id": "mn-inc42",
+      "name": "Mn",
+      "logoText": "M",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/hocco-cofounders-d2c-healthy-snacking-brand-phab-nets-4-mn/",
+      "description": "Hocco Cofounder’s D2C Healthy Snacking Brand Phab Nets $4 Mn.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-03",
+      "fundingAmount": "$4 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/hocco-cofounders-d2c-healthy-snacking-brand-phab-nets-4-mn/"
+        }
+      ]
+    },
     {
       "id": "brynn-putnam-techcrunch",
       "name": "Brynn Putnam",
