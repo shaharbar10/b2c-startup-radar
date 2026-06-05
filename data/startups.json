@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T10:14:46.419Z",
+  "lastUpdated": "2026-06-05T10:29:49.555Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "scotch-crunchbase-news",
+      "name": "Scotch",
+      "logoText": "S",
+      "tone": "amber",
+      "website": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/",
+      "description": "Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech With AI.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-04",
+      "fundingAmount": "$20M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Crunchbase News",
+          "url": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/"
+        }
+      ]
+    },
     {
       "id": "widen-product-range-inc42",
       "name": "Widen Product Range",
