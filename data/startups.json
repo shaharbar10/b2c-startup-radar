@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T10:29:49.555Z",
+  "lastUpdated": "2026-06-06T09:06:20.510Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "health-eu-startups",
+      "name": "Health",
+      "logoText": "H",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/",
+      "description": "Founded after personal loss, Joyvié Health raises €897k to rethink continence underwear.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-05",
+      "fundingAmount": "€897K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/"
+        }
+      ]
+    },
+    {
+      "id": "ghent-based-sensie-eu-startups",
+      "name": "Ghent-based Sensie",
+      "logoText": "GS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/",
+      "description": "Ghent-based Sensie raises €500k to bring real-time plant intelligence to greenhouse growers.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-05",
+      "fundingAmount": "€500K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/"
+        }
+      ]
+    },
     {
       "id": "scotch-crunchbase-news",
       "name": "Scotch",
