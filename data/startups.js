@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-08T11:23:46.386Z",
+  "lastUpdated": "2026-06-10T10:38:17.572Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "uncovr-eu-startups",
+      "name": "Uncovr",
+      "logoText": "U",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/",
+      "description": "French surgical AI startup Uncovr raises €6 million to turn surgical video into clinical records.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-10",
+      "fundingAmount": "€6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/"
+        }
+      ]
+    },
+    {
+      "id": "harley-street-eu-startups",
+      "name": "Harley Street",
+      "logoText": "HS",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/06/london-based-01health-bags-e12-9-million-to-bring-specialist-care-from-harley-street-to-the-high-street/",
+      "description": "London-based 01Health bags €12.9 million to bring specialist care from Harley Street to the high street.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-10",
+      "fundingAmount": "€12.9 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/london-based-01health-bags-e12-9-million-to-bring-specialist-care-from-harley-street-to-the-high-street/"
+        }
+      ]
+    },
+    {
+      "id": "enter-quick-commerce-inc42",
+      "name": "Enter Quick Commerce",
+      "logoText": "EQ",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/",
+      "description": "Exclusive: Uni Seoul Nets ₹35 Cr To Expand Offline Presence, Enter Quick Commerce.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-10",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/"
+        }
+      ]
+    },
     {
       "id": "uk-based-neworbit-eu-startups",
       "name": "UK-based NewOrbit",
