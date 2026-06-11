@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-10T10:38:17.572Z",
+  "lastUpdated": "2026-06-11T11:06:41.213Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "turnup-tech-eu",
+      "name": "TurnUp",
+      "logoText": "T",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/",
+      "description": "TurnUp raises €2 million to help healthcare providers reduce no-shows.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-11",
+      "fundingAmount": "€2 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/"
+        }
+      ]
+    },
+    {
+      "id": "retail-footprint-inc42",
+      "name": "Retail Footprint",
+      "logoText": "RF",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/",
+      "description": "D2C Brand Manam Chocolate Nets $9 Mn To Expand Retail Footprint.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-11",
+      "fundingAmount": "$9 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/"
+        }
+      ]
+    },
+    {
+      "id": "manam-chocolate-yourstory",
+      "name": "Manam Chocolate",
+      "logoText": "MC",
+      "tone": "amber",
+      "website": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore",
+      "description": "Manam Chocolate raises $9M in Series A round led by Omnivore.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-11",
+      "fundingAmount": "$9M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore"
+        }
+      ]
+    },
     {
       "id": "uncovr-eu-startups",
       "name": "Uncovr",
