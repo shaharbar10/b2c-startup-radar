@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-11T11:06:41.213Z",
+  "lastUpdated": "2026-06-12T10:46:17.852Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "definic-eu-startups",
+      "name": "Definic",
+      "logoText": "D",
+      "tone": "amber",
+      "website": "https://www.eu-startups.com/2026/06/slovakias-nordics-rebrands-as-definic-raises-e2-5-million-to-scale-its-vendor-intelligence-platform/",
+      "description": "Slovakia’s Nordics rebrands as Definic, raises €2.5 million to scale its vendor intelligence platform.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-12",
+      "fundingAmount": "€2.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/slovakias-nordics-rebrands-as-definic-raises-e2-5-million-to-scale-its-vendor-intelligence-platform/"
+        }
+      ]
+    },
+    {
+      "id": "seed-eu-startups",
+      "name": "Seed",
+      "logoText": "S",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/",
+      "description": "Berlin-based Angel Invest close €40 million Fund III targeting angel to Seed stages.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-11",
+      "fundingAmount": "€40 M",
+      "round": "Angel",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/"
+        }
+      ]
+    },
     {
       "id": "turnup-tech-eu",
       "name": "TurnUp",
