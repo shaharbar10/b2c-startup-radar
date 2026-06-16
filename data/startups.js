@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-12T10:46:17.852Z",
+  "lastUpdated": "2026-06-16T11:39:38.422Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "rainbow-crops-tech-eu",
+      "name": "Rainbow Crops",
+      "logoText": "RC",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/",
+      "description": "Rainbow Crops raises €9.7M to scale AI-powered crop engineering.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-16",
+      "fundingAmount": "€9.7M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/"
+        }
+      ]
+    },
     {
       "id": "definic-eu-startups",
       "name": "Definic",
