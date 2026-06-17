@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T11:39:38.422Z",
+  "lastUpdated": "2026-06-17T11:20:35.564Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "stockholm-based-tonada-eu-startups",
+      "name": "Stockholm-based Tonada",
+      "logoText": "ST",
+      "tone": "amber",
+      "website": "https://www.eu-startups.com/2026/06/stockholm-based-tonada-lands-e2-6-million-to-help-brands-design-how-their-spaces-sound/",
+      "description": "Stockholm-based Tonada lands €2.6 million to help brands design how their spaces sound.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-17",
+      "fundingAmount": "€2.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/stockholm-based-tonada-lands-e2-6-million-to-help-brands-design-how-their-spaces-sound/"
+        }
+      ]
+    },
     {
       "id": "rainbow-crops-tech-eu",
       "name": "Rainbow Crops",
