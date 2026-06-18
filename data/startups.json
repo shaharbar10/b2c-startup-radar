@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T11:20:35.564Z",
+  "lastUpdated": "2026-06-18T10:51:42.411Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "copenhagen-based-kvasir-technologies-eu-startups",
+      "name": "Copenhagen-based Kvasir Technologies",
+      "logoText": "CK",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/",
+      "description": "Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral marine biofuel.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-18",
+      "fundingAmount": "€10 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/"
+        }
+      ]
+    },
+    {
+      "id": "berlin-based-nexdash-eu-startups",
+      "name": "Berlin-based NexDash",
+      "logoText": "BN",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/",
+      "description": "Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify Europe’s road freight.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-17",
+      "fundingAmount": "€2.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/"
+        }
+      ]
+    },
     {
       "id": "stockholm-based-tonada-eu-startups",
       "name": "Stockholm-based Tonada",
