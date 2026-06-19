@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-18T10:51:42.411Z",
+  "lastUpdated": "2026-06-19T11:00:39.837Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ghent-based-adomate-eu-startups",
+      "name": "Ghent-based Adomate",
+      "logoText": "GA",
+      "tone": "blue",
+      "website": "https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/",
+      "description": "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale.",
+      "industry": "Consumer social",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-19",
+      "fundingAmount": "€1.4 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/"
+        }
+      ]
+    },
+    {
+      "id": "vienna-s-somareality-eu-startups",
+      "name": "Vienna’s SOMAREALITY",
+      "logoText": "VS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/",
+      "description": "Vienna’s SOMAREALITY secures over €3 million to power real-time cognitive monitoring through eye tracking.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-19",
+      "fundingAmount": "€3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/"
+        }
+      ]
+    },
     {
       "id": "copenhagen-based-kvasir-technologies-eu-startups",
       "name": "Copenhagen-based Kvasir Technologies",
