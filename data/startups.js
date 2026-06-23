@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-19T11:00:39.837Z",
+  "lastUpdated": "2026-06-23T10:08:47.561Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "varm-eu-startups",
+      "name": "VARM",
+      "logoText": "V",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/",
+      "description": "14 million poorly insulated German homes: VARM raises €17.5 million to expand its installer network.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-23",
+      "fundingAmount": "€17.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/"
+        }
+      ]
+    },
+    {
+      "id": "m-tech-eu",
+      "name": "M",
+      "logoText": "M",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/06/22/a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek-fewer-admin-tools/",
+      "description": "a16z backs Prosper AI with $30M as healthcare providers seek fewer admin tools.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-22",
+      "fundingAmount": "$30M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/22/a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek-fewer-admin-tools/"
+        }
+      ]
+    },
     {
       "id": "ghent-based-adomate-eu-startups",
       "name": "Ghent-based Adomate",
