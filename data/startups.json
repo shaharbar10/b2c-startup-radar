@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T10:08:47.561Z",
+  "lastUpdated": "2026-06-24T09:54:40.814Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "fika-jobs-tech-eu",
+      "name": "Fika Jobs",
+      "logoText": "FJ",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/06/23/fika-jobs-raises-4m-for-ai-powered-video-resumes/",
+      "description": "Fika Jobs raises $4M for AI-powered video resumes.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-23",
+      "fundingAmount": "$4M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/06/23/fika-jobs-raises-4m-for-ai-powered-video-resumes/"
+        }
+      ]
+    },
+    {
+      "id": "stockholm-s-fika-jobs-silicon-canals",
+      "name": "Stockholm’s Fika Jobs",
+      "logoText": "SF",
+      "tone": "teal",
+      "website": "https://siliconcanals.com/sc-w-stockholms-fika-jobs-just-raised-4m-to-kill-the-resume-with-ai-video-interviews-and-the-part-nobody-is-pricing-in-is-what-happens-when-employers-see-your-face-before-your-skills/",
+      "description": "Stockholm’s Fika Jobs just raised $4M to kill the resume with AI video interviews — and the part nobody is pricing in is what happens when employers see your face before your skills.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-24",
+      "fundingAmount": "$4M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Silicon Canals",
+          "url": "https://siliconcanals.com/sc-w-stockholms-fika-jobs-just-raised-4m-to-kill-the-resume-with-ai-video-interviews-and-the-part-nobody-is-pricing-in-is-what-happens-when-employers-see-your-face-before-your-skills/"
+        }
+      ]
+    },
     {
       "id": "varm-eu-startups",
       "name": "VARM",
