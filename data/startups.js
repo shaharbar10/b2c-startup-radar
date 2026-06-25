@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-06-24T09:54:40.814Z",
+  "lastUpdated": "2026-06-25T09:49:46.334Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "iii-cities-inc42",
+      "name": "III Cities",
+      "logoText": "IC",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/",
+      "description": "Preventive Health Platform SuperLiving Bags $7 Mn To Scale In Tier II & III Cities.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-25",
+      "fundingAmount": "$7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/"
+        }
+      ]
+    },
+    {
+      "id": "superliving-yourstory",
+      "name": "SuperLiving",
+      "logoText": "S",
+      "tone": "coral",
+      "website": "https://yourstory.com/2026/06/superliving-raises-7-million-in-series-a-led-by-lightspeed",
+      "description": "SuperLiving raises $7M in Series A led by Lightspeed.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-25",
+      "fundingAmount": "$7M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/06/superliving-raises-7-million-in-series-a-led-by-lightspeed"
+        }
+      ]
+    },
     {
       "id": "fika-jobs-tech-eu",
       "name": "Fika Jobs",
