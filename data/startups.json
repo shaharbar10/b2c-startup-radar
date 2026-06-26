@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T09:49:46.334Z",
+  "lastUpdated": "2026-06-26T09:56:47.188Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "almetra-eu-startups",
+      "name": "Almetra",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/",
+      "description": "Bosch and Siemens Energy partner Almetra raises €16 million Series A for manufacturing intelligence platform.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-25",
+      "fundingAmount": "€16 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/"
+        }
+      ]
+    },
     {
       "id": "iii-cities-inc42",
       "name": "III Cities",
