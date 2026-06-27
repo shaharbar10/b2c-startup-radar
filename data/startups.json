@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T09:56:47.188Z",
+  "lastUpdated": "2026-06-27T09:09:11.088Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "germany-s-intu-diagnostics-eu-startups",
+      "name": "Germany’s Intu Diagnostics",
+      "logoText": "GI",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/",
+      "description": "Lab-free testing moves closer to home as Germany’s Intu Diagnostics raises €1.1 million.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-26",
+      "fundingAmount": "€1.1 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/"
+        }
+      ]
+    },
     {
       "id": "almetra-eu-startups",
       "name": "Almetra",
