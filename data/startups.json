@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T09:09:11.088Z",
+  "lastUpdated": "2026-07-01T10:27:32.808Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "telum-therapeutics-eu-startups",
+      "name": "Telum Therapeutics",
+      "logoText": "TT",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/",
+      "description": "Telum Therapeutics raises €18 million to advance treatments for hospital-acquired infections.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-01",
+      "fundingAmount": "€18 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/"
+        }
+      ]
+    },
+    {
+      "id": "epitome-therapeutics-eu-startups",
+      "name": "Epitome Therapeutics",
+      "logoText": "ET",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+      "description": "Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-06-30",
+      "fundingAmount": "€4 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/"
+        }
+      ]
+    },
     {
       "id": "germany-s-intu-diagnostics-eu-startups",
       "name": "Germany’s Intu Diagnostics",
