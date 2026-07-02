@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-01T10:27:32.808Z",
+  "lastUpdated": "2026-07-02T09:40:40.470Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "brym-tech-eu",
+      "name": "BRYM",
+      "logoText": "B",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/",
+      "description": "BRYM secures €650K to develop wearable neurofeedback platform.",
+      "industry": "Consumer hardware",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-02",
+      "fundingAmount": "€650K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/"
+        }
+      ]
+    },
     {
       "id": "telum-therapeutics-eu-startups",
       "name": "Telum Therapeutics",
