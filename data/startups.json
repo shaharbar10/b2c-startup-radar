@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T09:40:40.470Z",
+  "lastUpdated": "2026-07-03T09:39:38.880Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "bidscript-eu-startups",
+      "name": "BidScript",
+      "logoText": "B",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/",
+      "description": "BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed funding.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-02",
+      "fundingAmount": "€701K",
+      "round": "Pre-seed",
+      "roundKey": "pre-seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/"
+        }
+      ]
+    },
+    {
+      "id": "wellness-brands-inc42",
+      "name": "Wellness Brands",
+      "logoText": "WB",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/",
+      "description": "BCT Ventures Nets ₹42 Cr To Build AI-Led Nutrition & Wellness Brands.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-02",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/"
+        }
+      ]
+    },
     {
       "id": "brym-tech-eu",
       "name": "BRYM",
