@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-03T09:39:38.880Z",
+  "lastUpdated": "2026-07-06T11:10:47.377Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "stoa-tech-eu",
+      "name": "Stoa",
+      "logoText": "S",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/",
+      "description": "Stoa secures $2.4M for cash rewards platform.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-06",
+      "fundingAmount": "$2.4M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/"
+        }
+      ]
+    },
     {
       "id": "bidscript-eu-startups",
       "name": "BidScript",
