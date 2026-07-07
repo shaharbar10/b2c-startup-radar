@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-06T11:10:47.377Z",
+  "lastUpdated": "2026-07-07T10:04:42.693Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "leiden-based-whispp-eu-startups",
+      "name": "Leiden-based Whispp",
+      "logoText": "LW",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/",
+      "description": "Leiden-based Whispp raises €5 million to scale on-device voice reconstruction AI technology globally.",
+      "industry": "Consumer hardware",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-07",
+      "fundingAmount": "€5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/"
+        }
+      ]
+    },
+    {
+      "id": "d2c-sweet-spot-inc42",
+      "name": "D2C Sweet Spot",
+      "logoText": "DS",
+      "tone": "teal",
+      "website": "https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/",
+      "description": "Chocolate Finds Its D2C Sweet Spot.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-07",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/"
+        }
+      ]
+    },
     {
       "id": "stoa-tech-eu",
       "name": "Stoa",
