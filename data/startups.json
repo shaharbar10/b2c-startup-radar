@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T10:04:42.693Z",
+  "lastUpdated": "2026-07-08T09:04:22.279Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "aardaia-eu-startups",
+      "name": "Aardaia",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/dutch-startup-aardaia-raises-e5m-to-turn-wild-plants-into-new-crops-and-develop-its-protein-potato/",
+      "description": "Dutch startup Aardaia raises €5 million to turn wild plants into new crops and develop its “protein potato”.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-08",
+      "fundingAmount": "€5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/dutch-startup-aardaia-raises-e5m-to-turn-wild-plants-into-new-crops-and-develop-its-protein-potato/"
+        }
+      ]
+    },
+    {
+      "id": "berlin-s-tech-eu",
+      "name": "Berlin's",
+      "logoText": "B",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/07/08/berlins-reversefashion-bags-seven-figure-funding-to-scale-textile-sorting/",
+      "description": "Berlin's reverse.fashion bags seven-figure funding to scale textile sorting.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-08",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/07/08/berlins-reversefashion-bags-seven-figure-funding-to-scale-textile-sorting/"
+        }
+      ]
+    },
     {
       "id": "leiden-based-whispp-eu-startups",
       "name": "Leiden-based Whispp",
