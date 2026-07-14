@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-10T09:57:33.891Z",
+  "lastUpdated": "2026-07-14T08:32:51.210Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "europe-eu-startups",
+      "name": "Europe",
+      "logoText": "E",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/",
+      "description": "Netflix alumni-founded Nopan reaches €7.2 million in funding to scale account and wallet payments across Europe.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-14",
+      "fundingAmount": "€7.2 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/"
+        }
+      ]
+    },
     {
       "id": "gradium-techcrunch",
       "name": "Gradium",
