@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-14T08:32:51.210Z",
+  "lastUpdated": "2026-07-15T08:40:25.555Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "paris-based-mio-eu-startups",
+      "name": "Paris-based Mio",
+      "logoText": "PM",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/",
+      "description": "Paris-based Mio emerges from stealth with €1.9 million to build an AI colleague that lives inside Slack.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-15",
+      "fundingAmount": "€1.9 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/"
+        }
+      ]
+    },
     {
       "id": "europe-eu-startups",
       "name": "Europe",
