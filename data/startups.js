@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-21T09:07:20.786Z",
+  "lastUpdated": "2026-07-22T09:06:22.403Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ai-era-crunchbase-news",
+      "name": "AI Era",
+      "logoText": "AE",
+      "tone": "teal",
+      "website": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+      "description": "Closing The Series A Gap Is The Next Great Opportunity For Black Founders In The AI Era.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-21",
+      "fundingAmount": "Amount not clear",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Crunchbase News",
+          "url": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/"
+        }
+      ]
+    },
+    {
+      "id": "iceland-s-sowilo-tech-eu",
+      "name": "Iceland’s Sowilo",
+      "logoText": "IS",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/",
+      "description": "Iceland’s Sowilo raises pre-seed to expand AI-powered fashion product intelligence platform.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-21",
+      "fundingAmount": "Amount not clear",
+      "round": "Pre-seed",
+      "roundKey": "pre-seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/"
+        }
+      ]
+    },
     {
       "id": "sundays-inc42",
       "name": "Sundays",
