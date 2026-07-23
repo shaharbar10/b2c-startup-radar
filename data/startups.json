@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T09:06:22.403Z",
+  "lastUpdated": "2026-07-23T09:05:09.790Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@
     }
   ],
   "companies": [
+    {
+      "id": "yope-techcrunch",
+      "name": "Yope",
+      "logoText": "Y",
+      "tone": "blue",
+      "website": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "description": "Yope raises $12.3M to build a private social network without algorithms or ads.",
+      "industry": "Consumer social",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-22",
+      "fundingAmount": "$12.3M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
+        }
+      ]
+    },
+    {
+      "id": "nernst-electric-eu-startups",
+      "name": "Nernst Electric",
+      "logoText": "NE",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/",
+      "description": "Nernst Electric raises €1.7 million to scale on-site oxygen generation technology for aquaculture and heavy industry.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-23",
+      "fundingAmount": "€1.7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/"
+        }
+      ]
+    },
+    {
+      "id": "telli-eu-startups",
+      "name": "Telli",
+      "logoText": "T",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/",
+      "description": "YC-backed telli raises €13.1 million to build AI for B2C customer operations.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-23",
+      "fundingAmount": "€13.1 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/"
+        }
+      ]
+    },
     {
       "id": "ai-era-crunchbase-news",
       "name": "AI Era",
@@ -2768,117 +2861,6 @@
         {
           "label": "Dealroom",
           "url": "https://app.dealroom.co/companies/mindtail"
-        }
-      ]
-    },
-    {
-      "id": "district",
-      "name": "District",
-      "logoText": "D",
-      "tone": "teal",
-      "website": "https://district.net",
-      "description": "Lets creators and independent sellers build community-driven shopping experiences, marketplaces, and live-commerce platforms.",
-      "industry": "Consumer commerce",
-      "location": "Los Angeles, United States",
-      "fundingDate": "2026-05-06",
-      "fundingAmount": "USD 14.7M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [
-        "Andreessen Horowitz",
-        "Kindred Ventures",
-        "Greylock",
-        "SV Angel",
-        "20VC"
-      ],
-      "employees": "Public LinkedIn count limited",
-      "status": "catch-up",
-      "tags": [
-        "Commerce",
-        "Marketplace",
-        "Creators"
-      ],
-      "founders": [
-        {
-          "name": "Eddie Koai"
-        },
-        {
-          "name": "Patrick Mandia"
-        },
-        {
-          "name": "Khoi Tran",
-          "linkedin": "https://www.linkedin.com/in/khoitran"
-        }
-      ],
-      "hiring": {
-        "status": "open",
-        "url": "https://district.net"
-      },
-      "sources": [
-        {
-          "label": "BusinessWire",
-          "url": "https://www.businesswire.com/news/home/20260506903958/en/District-Raises-%2414.7M-in-Seed-Funding"
-        },
-        {
-          "label": "Fortune",
-          "url": "https://fortune.com/2026/05/06/district-snap-seed/"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/districtdotnet"
-        }
-      ]
-    },
-    {
-      "id": "series",
-      "name": "Series",
-      "logoText": "S",
-      "tone": "amber",
-      "website": "https://www.series.so/",
-      "description": "Runs an AI social network inside iMessage to match people with useful connections.",
-      "industry": "Consumer social",
-      "location": "New York, United States",
-      "fundingDate": "2026-04-24",
-      "fundingAmount": "USD 5.1M",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [
-        "Iqram Magdon-Ismail",
-        "Pear VC",
-        "Steve Huffman",
-        "Edward Tian"
-      ],
-      "employees": "2-10 public range",
-      "status": "catch-up",
-      "tags": [
-        "Social",
-        "AI matching",
-        "Messaging"
-      ],
-      "founders": [
-        {
-          "name": "Nathaneo Johnson"
-        },
-        {
-          "name": "Sean Hargrow"
-        }
-      ],
-      "hiring": {
-        "status": "open",
-        "url": "https://www.series.so/"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/joinseries"
-        },
-        {
-          "label": "Forbes",
-          "url": "https://www.forbes.com/profile/series/"
         }
       ]
     }
