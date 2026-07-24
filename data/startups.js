@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-23T09:05:09.790Z",
+  "lastUpdated": "2026-07-24T09:01:42.569Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "snapchat-tech-funding-news",
+      "name": "Snapchat",
+      "logoText": "S",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/",
+      "description": "Spotify’s initial backer leads $12.3M round for Yope to build a private alternative to Snapchat.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-23",
+      "fundingAmount": "$12.3M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/"
+        }
+      ]
+    },
+    {
+      "id": "imaging-marketplace-inc42",
+      "name": "Imaging Marketplace",
+      "logoText": "IM",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/",
+      "description": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-23",
+      "fundingAmount": "$10 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/"
+        }
+      ]
+    },
+    {
+      "id": "carpl-ai-yourstory",
+      "name": "CARPL.ai",
+      "logoText": "C",
+      "tone": "amber",
+      "website": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc",
+      "description": "Tech30 startup CARPL.ai raises $10M in Series A led by IFC.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-23",
+      "fundingAmount": "$10M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc"
+        }
+      ]
+    },
     {
       "id": "yope-techcrunch",
       "name": "Yope",
@@ -2685,182 +2778,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Fundup",
           "url": "https://fundup.ai/recently-funded-startups/company/79381c7a4950c0797fbae77dd5bfd5347a945f73e262ee181cadca93f2743445/b-sides"
-        }
-      ]
-    },
-    {
-      "id": "kin-health",
-      "name": "Kin Health",
-      "logoText": "K",
-      "tone": "teal",
-      "website": "https://www.meetkin.com",
-      "description": "Gives patients a free AI record of doctor visits so they can remember advice and follow next steps.",
-      "industry": "Consumer health app",
-      "location": "Los Angeles, United States",
-      "fundingDate": "2026-05-18",
-      "fundingAmount": "USD 9M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [
-        "Maveron",
-        "Town Hall Ventures",
-        "Flex Capital",
-        "Eniac Ventures",
-        "Pear VC"
-      ],
-      "employees": "2-10 public range",
-      "status": "fresh",
-      "tags": [
-        "Patient app",
-        "AI notes",
-        "Care navigation"
-      ],
-      "founders": [
-        {
-          "name": "Arpan Parikh",
-          "linkedin": "https://www.linkedin.com/in/arpanparikhmd"
-        },
-        {
-          "name": "Amit Parikh"
-        },
-        {
-          "name": "Kyle Alwyn"
-        }
-      ],
-      "hiring": {
-        "status": "active",
-        "url": "https://www.meetkin.com/careers"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/"
-        },
-        {
-          "label": "BusinessWire mirror",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/kin-health-raises-9m-patients-212700651.html"
-        },
-        {
-          "label": "About",
-          "url": "https://www.meetkin.com/about"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/meetkin"
-        },
-        {
-          "label": "Careers",
-          "url": "https://www.meetkin.com/careers"
-        }
-      ]
-    },
-    {
-      "id": "vital-signals",
-      "name": "Vital Signals",
-      "logoText": "V",
-      "tone": "coral",
-      "website": "https://www.vitalsignals.com",
-      "description": "Develops a direct-to-consumer blood-pressure tracking product for better heart-health management.",
-      "industry": "Consumer health device",
-      "location": "United States",
-      "fundingDate": "2026-05-18",
-      "fundingAmount": "USD 15M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [
-        "XYZ Ventures"
-      ],
-      "employees": "2-10 public range",
-      "status": "fresh",
-      "tags": [
-        "Heart health",
-        "DTC device",
-        "Preventive care"
-      ],
-      "founders": [
-        {
-          "name": "Tom Moss"
-        }
-      ],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "VentureBurn",
-          "url": "https://ventureburn.com/vital-signals-raises-15m-blood-pressure-health-tech/"
-        },
-        {
-          "label": "Axios Pro snippet",
-          "url": "https://www.axios.com/pro/health-tech-deals/2026/05/18/vital-signals-raise-dtc-blood-pressure"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/vital-signals-health"
-        }
-      ]
-    },
-    {
-      "id": "mindtail",
-      "name": "Mindtail",
-      "logoText": "M",
-      "tone": "blue",
-      "website": "https://mindtail.co",
-      "description": "Builds AI-native hybrid-casual mobile games for global consumer audiences.",
-      "industry": "Mobile gaming",
-      "location": "Istanbul, Turkiye",
-      "fundingDate": "2026-05-08",
-      "fundingAmount": "USD 2M",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [
-        "APY Ventures",
-        "Inveo Ventures",
-        "Ak Portfoy GSYF"
-      ],
-      "employees": "2-10 public range",
-      "status": "catch-up",
-      "tags": [
-        "Gaming",
-        "AI production",
-        "Mobile"
-      ],
-      "founders": [
-        {
-          "name": "R. Tamer Ozgen"
-        },
-        {
-          "name": "Umut Yildiz",
-          "linkedin": "https://tr.linkedin.com/in/umutyildiz"
-        },
-        {
-          "name": "Sarper Karabag",
-          "linkedin": "https://tr.linkedin.com/in/sarper-karabag"
-        },
-        {
-          "name": "Doguscan Ozturk"
-        }
-      ],
-      "hiring": {
-        "status": "active",
-        "url": "https://mindtail.co/team/"
-      },
-      "sources": [
-        {
-          "label": "Daily Sabah",
-          "url": "https://www.dailysabah.com/business/tech/mindtail-debuts-with-2-million-in-seed-funding"
-        },
-        {
-          "label": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/mobile-dev-mindtail-raises-2m-fund-for-ai-powered-games"
-        },
-        {
-          "label": "Team",
-          "url": "https://mindtail.co/team/"
-        },
-        {
-          "label": "Dealroom",
-          "url": "https://app.dealroom.co/companies/mindtail"
         }
       ]
     }
