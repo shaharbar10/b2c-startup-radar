@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-24T09:01:42.569Z",
+  "lastUpdated": "2026-07-28T09:13:55.051Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,130 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ditto-eu-startups",
+      "name": "DITTO",
+      "logoText": "D",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/",
+      "description": "DITTO raises €5.2 million to tackle menstrual health gaps with research and targeted supplements.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "€5.2 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/"
+        }
+      ]
+    },
+    {
+      "id": "zuriq-eu-startups",
+      "name": "ZuriQ",
+      "logoText": "Z",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/",
+      "description": "Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum processors.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "€22.4 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/"
+        }
+      ]
+    },
+    {
+      "id": "zuriq-tech-eu",
+      "name": "ZuriQ",
+      "logoText": "Z",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
+      "description": "ZuriQ raises $25.5M to scale its breakthrough 2D quantum architecture.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "$25.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/"
+        }
+      ]
+    },
+    {
+      "id": "ditto-tech-funding-news",
+      "name": "DITTO",
+      "logoText": "D",
+      "tone": "coral",
+      "website": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/",
+      "description": "FoodLabs and Eka Ventures lead $6M seed round for female-led menstrual health startup DITTO.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "$6M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/"
+        }
+      ]
+    },
     {
       "id": "snapchat-tech-funding-news",
       "name": "Snapchat",
@@ -2561,223 +2685,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "LinkedIn hiring signal",
           "url": "https://www.linkedin.com/posts/bdebever_5000-members-4-countries-10-growth-every-activity-7439252441243693056-qKQf"
-        }
-      ]
-    },
-    {
-      "id": "maka-kids",
-      "name": "Maka Kids",
-      "logoText": "M",
-      "tone": "blue",
-      "website": "https://www.makakids.com",
-      "description": "Builds an ad-free streaming app for children ages zero to six with content vetted for healthy development.",
-      "industry": "Consumer media",
-      "location": "Detroit, United States",
-      "fundingDate": "2026-05-21",
-      "fundingAmount": "USD 3M",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [
-        "Michigan Rise",
-        "Union Heritage Ventures",
-        "Flybridge",
-        "Also Capital",
-        "Detroit Venture Partners",
-        "Song United",
-        "Invest Detroit",
-        "Ann Arbor Spark Capital",
-        "84I90",
-        "Georgetown Gain",
-        "Segal Ventures"
-      ],
-      "employees": "2-10 public range",
-      "status": "fresh",
-      "tags": [
-        "Kids media",
-        "Streaming",
-        "Family"
-      ],
-      "founders": [
-        {
-          "name": "Isabel Sheinman",
-          "linkedin": "https://www.linkedin.com/in/isabel-sheinman-98021079"
-        },
-        {
-          "name": "Tanyella Leta",
-          "linkedin": "https://www.linkedin.com/in/tanyella-leta-46691a19"
-        }
-      ],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/maka-kids"
-        },
-        {
-          "label": "Website",
-          "url": "https://www.makakids.com"
-        }
-      ]
-    },
-    {
-      "id": "hark",
-      "name": "Hark",
-      "logoText": "H",
-      "tone": "blue",
-      "website": "https://hark.com",
-      "description": "Builds personalized AI models and hardware intended to become a universal consumer AI interface.",
-      "industry": "Consumer AI hardware",
-      "location": "San Jose, United States",
-      "fundingDate": "2026-05-21",
-      "fundingAmount": "USD 700M+",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [
-        "Parkway Venture Capital",
-        "Nvidia",
-        "AMD Ventures",
-        "ARK Invest",
-        "Brookfield",
-        "Greycroft",
-        "Intel Capital",
-        "Qualcomm Ventures",
-        "Salesforce Ventures"
-      ],
-      "employees": "70+ public hiring signal",
-      "status": "fresh",
-      "tags": [
-        "AI assistant",
-        "Hardware",
-        "Personal intelligence"
-      ],
-      "founders": [
-        {
-          "name": "Brett Adcock",
-          "linkedin": "https://www.linkedin.com/in/brettadcock"
-        }
-      ],
-      "hiring": {
-        "status": "active",
-        "url": "https://hark.com/careers"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
-        },
-        {
-          "label": "BusinessWire mirror",
-          "url": "https://www.streetinsider.com/Business%2BWire/Hark%2BRaises%2B%24700M%2BSeries%2BA%2Bat%2Ba%2B%246B%2BValuation/26532774.html"
-        },
-        {
-          "label": "Hiring signal",
-          "url": "https://www.linkedin.com/posts/brettadcock_hark-just-crossed-70-people-and-were-hiring-activity-7459262013307842561-Ecv2"
-        }
-      ]
-    },
-    {
-      "id": "sychedelic",
-      "name": "Sychedelic",
-      "logoText": "Sy",
-      "tone": "coral",
-      "website": "https://www.sychedelic.com",
-      "description": "Makes neuromodulation headphones that sense stress, sleep, and focus signals and intervene with personalized stimulation and audio.",
-      "industry": "Consumer health wearables",
-      "location": "India",
-      "fundingDate": "2026-05-20",
-      "fundingAmount": "USD 3.5M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [
-        "Undisclosed / reported strategic investors"
-      ],
-      "employees": "11-50 public range",
-      "status": "fresh",
-      "tags": [
-        "Wellness",
-        "Neurotech",
-        "Wearables"
-      ],
-      "founders": [
-        {
-          "name": "Ria Rustagi"
-        },
-        {
-          "name": "Bhavya Madan"
-        }
-      ],
-      "hiring": {
-        "status": "open",
-        "url": "https://www.sychedelic.com/aboutus/"
-      },
-      "sources": [
-        {
-          "label": "Funding article",
-          "url": "https://entrepreneurnewsnetwork.com/2026/05/20/sychedelic-raises-3-5-million-to-expand-ai-powered-neurotechnology-wearables-globally/"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://in.linkedin.com/company/sychedelic"
-        },
-        {
-          "label": "Team",
-          "url": "https://www.sychedelic.com/aboutus/"
-        },
-        {
-          "label": "Dealroom",
-          "url": "https://app.dealroom.co/companies/sychedelic"
-        }
-      ]
-    },
-    {
-      "id": "b-sides",
-      "name": "B-SIDES",
-      "logoText": "B",
-      "tone": "amber",
-      "website": "https://enjoybsides.com",
-      "description": "Sells plant-based snack puffs made from upcycled oat and corn ingredients.",
-      "industry": "Consumer packaged goods",
-      "location": "Brooklyn, United States",
-      "fundingDate": "2026-05-19",
-      "fundingAmount": "USD 500K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [
-        "Cap Ventures 8182"
-      ],
-      "employees": "1-10 public range",
-      "status": "fresh",
-      "tags": [
-        "Food",
-        "DTC",
-        "Sustainability"
-      ],
-      "founders": [
-        {
-          "name": "Yousuf Ahmed"
-        }
-      ],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Food Business News",
-          "url": "https://www.foodbusinessnews.net/articles/30333-b-sides-raises-500-000-in-seed-round"
-        },
-        {
-          "label": "Citybiz",
-          "url": "https://www.citybiz.co/article/848680/b-sides-raises-500k-seed-round-to-expand-retail-distribution-and-supply-chain-operations/"
-        },
-        {
-          "label": "Fundup",
-          "url": "https://fundup.ai/recently-funded-startups/company/79381c7a4950c0797fbae77dd5bfd5347a945f73e262ee181cadca93f2743445/b-sides"
         }
       ]
     }
