@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T09:13:55.051Z",
+  "lastUpdated": "2026-07-29T09:19:08.429Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,161 @@
     }
   ],
   "companies": [
+    {
+      "id": "throne-science-crunchbase-news",
+      "name": "Throne Science",
+      "logoText": "TS",
+      "tone": "coral",
+      "website": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+      "description": "Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To Track Gut Health From The Toilet.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "$10M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Crunchbase News",
+          "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/"
+        }
+      ]
+    },
+    {
+      "id": "britain-s-eu-startups",
+      "name": "Britain’s",
+      "logoText": "B",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/",
+      "description": "Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding wheat business.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-29",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/"
+        }
+      ]
+    },
+    {
+      "id": "what-revolut-s-tech-funding-news",
+      "name": "What Revolut’s",
+      "logoText": "WR",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/revolut-seed-pitch-deck-115b-valuation-us-bank-charter/",
+      "description": "What Revolut’s 2015 pitch deck didn’t see coming: A $115B valuation and US banking fight.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-28",
+      "fundingAmount": "$115B",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/revolut-seed-pitch-deck-115b-valuation-us-bank-charter/"
+        }
+      ]
+    },
+    {
+      "id": "fixxly-inc42",
+      "name": "Fixxly",
+      "logoText": "F",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/",
+      "description": "Building Materials Quick Commerce Startup Fixxly Raises $5.5 Mn.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-29",
+      "fundingAmount": "$5.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/"
+        }
+      ]
+    },
+    {
+      "id": "fixxly-yourstory",
+      "name": "Fixxly",
+      "logoText": "F",
+      "tone": "amber",
+      "website": "https://yourstory.com/2026/07/building-materials-quick-commerce-startup-fixxly-seed-round",
+      "description": "Building materials quick commerce startup Fixxly raises $5.5M in seed round.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-29",
+      "fundingAmount": "$5.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/07/building-materials-quick-commerce-startup-fixxly-seed-round"
+        }
+      ]
+    },
     {
       "id": "ditto-eu-startups",
       "name": "DITTO",
@@ -2475,216 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/asml-spin-out-invisix-raises-e20-million-seed-round-to-help-chipmakers-build-what-they-cant-yet-see/"
-        }
-      ]
-    },
-    {
-      "id": "wild-eu-startups",
-      "name": "Wild",
-      "logoText": "W",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/",
-      "description": "Lune & Wild raises €2.3 million to scale female-founded, chef-led baby and children’s food brand.",
-      "industry": "Consumer packaged goods",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-01",
-      "fundingAmount": "€2.3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/lune-wild-raises-e2-3-million-to-scale-female-founded-chef-led-baby-and-childrens-food-brand/"
-        }
-      ]
-    },
-    {
-      "id": "return-helper-tech-eu",
-      "name": "Return Helper",
-      "logoText": "RH",
-      "tone": "amber",
-      "website": "https://tech.eu/2026/06/01/return-helper-raises-4m-series-a-to-turn-cross-border-ecommerce-returns-into-profit-with-ai/",
-      "description": "Return Helper raises $4M Series A to turn cross-border ecommerce returns into profit with AI [Sponsored].",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-01",
-      "fundingAmount": "$4M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/01/return-helper-raises-4m-series-a-to-turn-cross-border-ecommerce-returns-into-profit-with-ai/"
-        }
-      ]
-    },
-    {
-      "id": "ai-tech-funding-news",
-      "name": "AI",
-      "logoText": "A",
-      "tone": "coral",
-      "website": "https://techfundingnews.com/ex-palantir-team-bags-12m-seed-to-build-the-ai-operating-system-pharma-has-been-missing/",
-      "description": "Ex-Palantir team bags $12M seed to build the AI operating system pharma has been missing.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-05-27",
-      "fundingAmount": "$12M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/ex-palantir-team-bags-12m-seed-to-build-the-ai-operating-system-pharma-has-been-missing/"
-        }
-      ]
-    },
-    {
-      "id": "pacifico-biolabs",
-      "name": "Pacifico Biolabs",
-      "logoText": "P",
-      "tone": "amber",
-      "website": "https://www.pacifico.bio",
-      "description": "Uses mycelium fermentation to make clean-label chicken and meat alternatives for retail and food-service markets.",
-      "industry": "Alternative protein",
-      "location": "Berlin / Leipzig, Germany",
-      "fundingDate": "2026-05-27",
-      "fundingAmount": "EUR 7M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [
-        "FoodLabs",
-        "Simon Capital",
-        "Exceptional Ventures",
-        "Sprout & About Ventures"
-      ],
-      "employees": "11-50 public range",
-      "status": "fresh",
-      "tags": [
-        "FoodTech",
-        "Alternative protein",
-        "Future retail"
-      ],
-      "founders": [
-        {
-          "name": "Zac Austin"
-        },
-        {
-          "name": "Washington Logrono",
-          "linkedin": "https://de.linkedin.com/in/washington-logro%C3%B1o-118a9371"
-        }
-      ],
-      "hiring": {
-        "status": "active",
-        "url": "https://de.linkedin.com/jobs/view/produktionsleiter-lebensmittelgewerbe-w-m-d-at-pacifico-biolabs-4377756365"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/05/27/pacifico-biolabs-raises-eur7m-to-turn-brewery-infrastructure-into-protein-production/"
-        },
-        {
-          "label": "Green Queen",
-          "url": "https://www.greenqueen.com.hk/pacifico-biolabs-funding-mycelium-meat-fermentation-protein-beer-tanks/"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/company/pacifico-biolabs"
-        },
-        {
-          "label": "TechCrunch background",
-          "url": "https://techcrunch.com/2024/02/16/pacifico-biolabs-fermentation-alternative-seafood/"
-        }
-      ]
-    },
-    {
-      "id": "lucis",
-      "name": "Lucis",
-      "logoText": "L",
-      "tone": "coral",
-      "website": "https://www.lucis.life",
-      "description": "Offers biomarker testing and an AI companion app to help consumers detect health risks earlier.",
-      "industry": "Consumer preventive health",
-      "location": "Paris, France",
-      "fundingDate": "2026-05-26",
-      "fundingAmount": "USD 20M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [
-        "Singular",
-        "General Catalyst",
-        "Y Combinator",
-        "Angel investors"
-      ],
-      "employees": "About 20 public article count",
-      "status": "fresh",
-      "tags": [
-        "Biomarkers",
-        "Preventive care",
-        "AI health"
-      ],
-      "founders": [
-        {
-          "name": "Maxime Berthelot",
-          "linkedin": "https://www.linkedin.com/in/maximeberthelot"
-        },
-        {
-          "name": "Baptiste Debever",
-          "linkedin": "https://fr.linkedin.com/in/bdebever"
-        },
-        {
-          "name": "Max Guerois",
-          "linkedin": "https://fr.linkedin.com/in/maxguerois"
-        }
-      ],
-      "hiring": {
-        "status": "active",
-        "url": "https://www.lucis.life/careers"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/05/26/lucis-raises-20m-series-a-to-expand-ai-driven-preventive-healthcare-platform/"
-        },
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/05/yc-backed-french-preventive-health-platform-lucis-raises-e17-3-million-series-a-led-by-singular/"
-        },
-        {
-          "label": "LinkedIn hiring signal",
-          "url": "https://www.linkedin.com/posts/bdebever_5000-members-4-countries-10-growth-every-activity-7439252441243693056-qKQf"
         }
       ]
     }
