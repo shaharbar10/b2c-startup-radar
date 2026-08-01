@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-07-31T09:22:20.534Z",
+  "lastUpdated": "2026-08-01T08:37:25.392Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "paris-based-apolownia-eu-startups",
+      "name": "Paris-based Apolownia",
+      "logoText": "PA",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/",
+      "description": "Paris-based Apolownia raises €1 million to scale coastal restoration and blue carbon projects.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-07-31",
+      "fundingAmount": "€1 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/"
+        }
+      ]
+    },
     {
       "id": "arboreal-bioinnovations-inc42",
       "name": "Arboreal Bioinnovations",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/06/01/gradient-labs-raises-fresh-13m/"
-        }
-      ]
-    },
-    {
-      "id": "vc-tech-funding-news",
-      "name": "VC",
-      "logoText": "V",
-      "tone": "teal",
-      "website": "https://techfundingnews.com/poindexter-labs-seed-episode-1/",
-      "description": "Exclusive: The maths teacher who bootstrapped an AI startup to £1.6M before taking a penny of VC just raised £2M to fix AI’s broken data pipeline.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-02",
-      "fundingAmount": "£1.6M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/poindexter-labs-seed-episode-1/"
         }
       ]
     }
