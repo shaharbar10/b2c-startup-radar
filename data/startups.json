@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T08:37:25.392Z",
+  "lastUpdated": "2026-08-04T09:17:52.831Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "ore-energy-eu-startups",
+      "name": "Ore Energy",
+      "logoText": "OE",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/",
+      "description": "Ore Energy raises €37.3 million to scale iron-air batteries that store renewable power for up to 100 hours.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-04",
+      "fundingAmount": "€37.3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/"
+        }
+      ]
+    },
     {
       "id": "paris-based-apolownia-eu-startups",
       "name": "Paris-based Apolownia",
@@ -2599,37 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/used-by-desigual-awwg-and-futbol-emotion-spanish-ai-fashion-platform-modelia-raises-e1-03-million/"
-        }
-      ]
-    },
-    {
-      "id": "gradient-labs-tech-eu",
-      "name": "Gradient Labs",
-      "logoText": "GL",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/06/01/gradient-labs-raises-fresh-13m/",
-      "description": "Gradient Labs raises fresh $13M.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-01",
-      "fundingAmount": "$13M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/01/gradient-labs-raises-fresh-13m/"
         }
       ]
     }
