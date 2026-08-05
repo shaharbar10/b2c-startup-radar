@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T09:17:52.831Z",
+  "lastUpdated": "2026-08-05T09:17:10.437Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "paris-based-shiplog-eu-startups",
+      "name": "Paris-based Shiplog",
+      "logoText": "PS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/",
+      "description": "Paris-based Shiplog raises over €807.6K to build agentic customer intelligence for personalisation at scale.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-04",
+      "fundingAmount": "€807.6K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/"
+        }
+      ]
+    },
     {
       "id": "ore-energy-eu-startups",
       "name": "Ore Energy",
@@ -2599,37 +2630,6 @@
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/06/03/flok-health-lands-125m-to-grow-its-ai-operated-healthcare-platform/"
-        }
-      ]
-    },
-    {
-      "id": "modelia-eu-startups",
-      "name": "Modelia",
-      "logoText": "M",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/used-by-desigual-awwg-and-futbol-emotion-spanish-ai-fashion-platform-modelia-raises-e1-03-million/",
-      "description": "Used by Desigual, AWWG and Fútbol Emotion, Spanish AI fashion platform Modelia raises €1.03 million.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-02",
-      "fundingAmount": "€1.03 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/used-by-desigual-awwg-and-futbol-emotion-spanish-ai-fashion-platform-modelia-raises-e1-03-million/"
         }
       ]
     }
