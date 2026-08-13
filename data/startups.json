@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T08:11:49.163Z",
+  "lastUpdated": "2026-08-13T07:59:33.758Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "google-techcrunch",
+      "name": "Google",
+      "logoText": "G",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "description": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-12",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+        }
+      ]
+    },
+    {
+      "id": "gothenburg-s-millow-eu-startups",
+      "name": "Gothenburg’s Millow",
+      "logoText": "GM",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/",
+      "description": "Gothenburg’s Millow secures €2 million to scale clean-label protein made from oats and mycelium.",
+      "industry": "Consumer packaged goods",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-13",
+      "fundingAmount": "€2 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/"
+        }
+      ]
+    },
     {
       "id": "oslo-based-visoid-eu-startups",
       "name": "Oslo-based Visoid",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/"
-        }
-      ]
-    },
-    {
-      "id": "scotch-crunchbase-news",
-      "name": "Scotch",
-      "logoText": "S",
-      "tone": "amber",
-      "website": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/",
-      "description": "Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech With AI.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-04",
-      "fundingAmount": "$20M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Crunchbase News",
-          "url": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/"
-        }
-      ]
-    },
-    {
-      "id": "widen-product-range-inc42",
-      "name": "Widen Product Range",
-      "logoText": "WP",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/firstclub-nets-55-mn-to-expand-store-footprint-widen-product-range/",
-      "description": "FirstClub Nets $55 Mn To Expand Store Footprint, Widen Product Range.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-03",
-      "fundingAmount": "$55 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/firstclub-nets-55-mn-to-expand-store-footprint-widen-product-range/"
         }
       ]
     }
