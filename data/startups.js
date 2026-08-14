@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-13T07:59:33.758Z",
+  "lastUpdated": "2026-08-14T07:55:58.438Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ai-eu-startups",
+      "name": "AI",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/",
+      "description": "ETH Zurich spin-off Aisot Technologies bags €2.13 million to bring agentic AI to portfolio management.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-14",
+      "fundingAmount": "€2.13 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/"
+        }
+      ]
+    },
     {
       "id": "google-techcrunch",
       "name": "Google",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/"
-        }
-      ]
-    },
-    {
-      "id": "ghent-based-sensie-eu-startups",
-      "name": "Ghent-based Sensie",
-      "logoText": "GS",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/",
-      "description": "Ghent-based Sensie raises €500k to bring real-time plant intelligence to greenhouse growers.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-05",
-      "fundingAmount": "€500K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/ghent-based-sensie-raises-e500k-to-bring-real-time-plant-intelligence-to-greenhouse-growers/"
         }
       ]
     }
