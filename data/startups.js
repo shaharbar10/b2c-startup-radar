@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-14T07:55:58.438Z",
+  "lastUpdated": "2026-08-18T07:12:37.573Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "series-a-eu-startups",
+      "name": "Series A",
+      "logoText": "SA",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/",
+      "description": "Gravis Robotics becomes Europe’s latest unicorn after €172 million Series A.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-17",
+      "fundingAmount": "€172 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/"
+        }
+      ]
+    },
     {
       "id": "ai-eu-startups",
       "name": "AI",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/"
-        }
-      ]
-    },
-    {
-      "id": "health-eu-startups",
-      "name": "Health",
-      "logoText": "H",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/",
-      "description": "Founded after personal loss, Joyvié Health raises €897k to rethink continence underwear.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-05",
-      "fundingAmount": "€897K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/founded-after-personal-loss-joyvie-health-raises-e897k-to-rethink-continence-underwear/"
         }
       ]
     }
