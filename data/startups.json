@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T07:12:37.573Z",
+  "lastUpdated": "2026-08-19T07:13:10.021Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "dehaat-s-honest-farms-inc42",
+      "name": "DeHaat’s Honest Farms",
+      "logoText": "DH",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/dehaats-honest-farms-raises-%e2%82%b935-cr-to-expand-retail-footprint-product-portfolio/",
+      "description": "DeHaat’s Honest Farms Raises ₹35 Cr To Expand Retail Footprint, Product Portfolio.",
+      "industry": "Consumer packaged goods",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-18",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/dehaats-honest-farms-raises-%e2%82%b935-cr-to-expand-retail-footprint-product-portfolio/"
+        }
+      ]
+    },
     {
       "id": "series-a-eu-startups",
       "name": "Series A",
@@ -2599,37 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/"
-        }
-      ]
-    },
-    {
-      "id": "galvany-eu-startups",
-      "name": "GALVANY",
-      "logoText": "G",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/",
-      "description": "Profitable German heat pump platform GALVANY closes €10 million Seed round after sevenfold revenue growth.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-08",
-      "fundingAmount": "€10 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/profitable-german-heat-pump-platform-galvany-closes-e10-million-seed-round-after-sevenfold-revenue-growth/"
         }
       ]
     }
