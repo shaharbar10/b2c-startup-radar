@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-19T07:13:10.021Z",
+  "lastUpdated": "2026-08-20T07:14:28.293Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,130 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "copenhagen-s-aisel-health-eu-startups",
+      "name": "Copenhagen’s Aisel Health",
+      "logoText": "CA",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/",
+      "description": "Copenhagen’s Aisel Health raises €1.7 million to scale its AI operating system for psychiatric care.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-19",
+      "fundingAmount": "€1.7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/"
+        }
+      ]
+    },
+    {
+      "id": "aisel-tech-eu",
+      "name": "Aisel",
+      "logoText": "A",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/",
+      "description": "Beyond AI scribes: Aisel raises €1.7M to tackle psychiatry’s capacity crisis.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-19",
+      "fundingAmount": "€1.7M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/"
+        }
+      ]
+    },
+    {
+      "id": "dark-store-count-inc42",
+      "name": "Dark Store Count",
+      "logoText": "DS",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/",
+      "description": "Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-20",
+      "fundingAmount": "$7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/"
+        }
+      ]
+    },
+    {
+      "id": "peeko-yourstory",
+      "name": "Peeko",
+      "logoText": "P",
+      "tone": "amber",
+      "website": "https://yourstory.com/2026/08/quick-commerce-babycare-platform-peeko-series-a-chiratae-ventures",
+      "description": "Quick commerce babycare platform Peeko raises Rs 67.4 Cr in Series A led by Chiratae Ventures.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-20",
+      "fundingAmount": "Amount not clear",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/08/quick-commerce-babycare-platform-peeko-series-a-chiratae-ventures"
+        }
+      ]
+    },
     {
       "id": "dehaat-s-honest-farms-inc42",
       "name": "DeHaat’s Honest Farms",
@@ -2506,130 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore"
-        }
-      ]
-    },
-    {
-      "id": "uncovr-eu-startups",
-      "name": "Uncovr",
-      "logoText": "U",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/",
-      "description": "French surgical AI startup Uncovr raises €6 million to turn surgical video into clinical records.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-10",
-      "fundingAmount": "€6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/french-surgical-ai-startup-uncovr-raises-e6-million-to-turn-surgical-video-into-clinical-records/"
-        }
-      ]
-    },
-    {
-      "id": "harley-street-eu-startups",
-      "name": "Harley Street",
-      "logoText": "HS",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/06/london-based-01health-bags-e12-9-million-to-bring-specialist-care-from-harley-street-to-the-high-street/",
-      "description": "London-based 01Health bags €12.9 million to bring specialist care from Harley Street to the high street.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-10",
-      "fundingAmount": "€12.9 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/london-based-01health-bags-e12-9-million-to-bring-specialist-care-from-harley-street-to-the-high-street/"
-        }
-      ]
-    },
-    {
-      "id": "enter-quick-commerce-inc42",
-      "name": "Enter Quick Commerce",
-      "logoText": "EQ",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/",
-      "description": "Exclusive: Uni Seoul Nets ₹35 Cr To Expand Offline Presence, Enter Quick Commerce.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-10",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/"
-        }
-      ]
-    },
-    {
-      "id": "uk-based-neworbit-eu-startups",
-      "name": "UK-based NewOrbit",
-      "logoText": "UN",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/",
-      "description": "UK-based NewOrbit raises €16 million to build commercial satellites for very low Earth orbit (VLEO).",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-08",
-      "fundingAmount": "€16 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/uk-based-neworbit-raises-e16-million-to-build-commercial-satellites-for-very-low-earth-orbit-vleo/"
         }
       ]
     }
