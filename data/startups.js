@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-20T07:14:28.293Z",
+  "lastUpdated": "2026-08-21T07:15:17.818Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "artwod-eu-startups",
+      "name": "Artwod",
+      "logoText": "A",
+      "tone": "amber",
+      "website": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/",
+      "description": "Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-20",
+      "fundingAmount": "€1.1 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/"
+        }
+      ]
+    },
     {
       "id": "copenhagen-s-aisel-health-eu-startups",
       "name": "Copenhagen’s Aisel Health",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/"
-        }
-      ]
-    },
-    {
-      "id": "manam-chocolate-yourstory",
-      "name": "Manam Chocolate",
-      "logoText": "MC",
-      "tone": "amber",
-      "website": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore",
-      "description": "Manam Chocolate raises $9M in Series A round led by Omnivore.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-11",
-      "fundingAmount": "$9M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore"
         }
       ]
     }
