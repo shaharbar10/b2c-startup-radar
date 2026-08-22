@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T07:15:17.818Z",
+  "lastUpdated": "2026-08-22T07:07:17.139Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "uk-based-hexseed-eu-startups",
+      "name": "UK-based HexSeed",
+      "logoText": "UH",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/",
+      "description": "UK-based HexSeed raises over €700k to cool AI data centres with its with diamond coating technology.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-21",
+      "fundingAmount": "€700K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/"
+        }
+      ]
+    },
     {
       "id": "artwod-eu-startups",
       "name": "Artwod",
@@ -2599,37 +2630,6 @@
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/"
-        }
-      ]
-    },
-    {
-      "id": "retail-footprint-inc42",
-      "name": "Retail Footprint",
-      "logoText": "RF",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/",
-      "description": "D2C Brand Manam Chocolate Nets $9 Mn To Expand Retail Footprint.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-11",
-      "fundingAmount": "$9 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/"
         }
       ]
     }
