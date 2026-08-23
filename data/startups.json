@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:07:17.139Z",
+  "lastUpdated": "2026-08-23T07:09:04.932Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "personal-care-portfolio-inc42",
+      "name": "Personal Care Portfolio",
+      "logoText": "PC",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/",
+      "description": "D2C Brand Be Clinical Bags ₹21 Cr To Expand Beauty & Personal Care Portfolio.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-22",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/"
+        }
+      ]
+    },
     {
       "id": "uk-based-hexseed-eu-startups",
       "name": "UK-based HexSeed",
@@ -2599,37 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/"
-        }
-      ]
-    },
-    {
-      "id": "turnup-tech-eu",
-      "name": "TurnUp",
-      "logoText": "T",
-      "tone": "coral",
-      "website": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/",
-      "description": "TurnUp raises €2 million to help healthcare providers reduce no-shows.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-11",
-      "fundingAmount": "€2 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/"
         }
       ]
     }
