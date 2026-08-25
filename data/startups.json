@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T07:34:30.214Z",
+  "lastUpdated": "2026-08-25T07:23:12.614Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,130 @@
     }
   ],
   "companies": [
+    {
+      "id": "amsterdam-s-neno-eu-startups",
+      "name": "Amsterdam’s Neno",
+      "logoText": "AN",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/",
+      "description": "Amsterdam’s Neno raises €6.6 million to build the AI-native back office suite for entrepreneurs.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-25",
+      "fundingAmount": "€6.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/"
+        }
+      ]
+    },
+    {
+      "id": "boldr-eu-startups",
+      "name": "Boldr",
+      "logoText": "B",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/",
+      "description": "Smart thermostat maker Boldr raises €4.2 million to grow connected heating and cooling platform.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-24",
+      "fundingAmount": "€4.2 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/"
+        }
+      ]
+    },
+    {
+      "id": "neno-tech-funding-news",
+      "name": "Neno",
+      "logoText": "N",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/neno-raises-6-6m-to-scale-ai-accounting-platform/",
+      "description": "Ex-Mollie and Booking.com exec’s Neno raises €6.6M to build an AI accountant.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-25",
+      "fundingAmount": "€6.6M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/neno-raises-6-6m-to-scale-ai-accounting-platform/"
+        }
+      ]
+    },
+    {
+      "id": "listings-inc42",
+      "name": "Listings",
+      "logoText": "L",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/",
+      "description": "Karnataka Suspends Amazon, Instamart, BigBasket Food Licences Over Toxic Datura Listings.",
+      "industry": "Consumer packaged goods",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-25",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/"
+        }
+      ]
+    },
     {
       "id": "entry-inc42",
       "name": "Entry",
@@ -2506,130 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/"
-        }
-      ]
-    },
-    {
-      "id": "copenhagen-based-kvasir-technologies-eu-startups",
-      "name": "Copenhagen-based Kvasir Technologies",
-      "logoText": "CK",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/",
-      "description": "Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral marine biofuel.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-18",
-      "fundingAmount": "€10 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/"
-        }
-      ]
-    },
-    {
-      "id": "berlin-based-nexdash-eu-startups",
-      "name": "Berlin-based NexDash",
-      "logoText": "BN",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/",
-      "description": "Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify Europe’s road freight.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-17",
-      "fundingAmount": "€2.5 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-based-tonada-eu-startups",
-      "name": "Stockholm-based Tonada",
-      "logoText": "ST",
-      "tone": "amber",
-      "website": "https://www.eu-startups.com/2026/06/stockholm-based-tonada-lands-e2-6-million-to-help-brands-design-how-their-spaces-sound/",
-      "description": "Stockholm-based Tonada lands €2.6 million to help brands design how their spaces sound.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-17",
-      "fundingAmount": "€2.6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/stockholm-based-tonada-lands-e2-6-million-to-help-brands-design-how-their-spaces-sound/"
-        }
-      ]
-    },
-    {
-      "id": "rainbow-crops-tech-eu",
-      "name": "Rainbow Crops",
-      "logoText": "RC",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/",
-      "description": "Rainbow Crops raises €9.7M to scale AI-powered crop engineering.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-16",
-      "fundingAmount": "€9.7M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/"
         }
       ]
     }
