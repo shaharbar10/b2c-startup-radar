@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-26T07:22:45.692Z",
+  "lastUpdated": "2026-08-27T17:43:15.919Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "atorie-techcrunch",
+      "name": "Atorie",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "description": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-27",
+      "fundingAmount": "$9.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"
+        }
+      ]
+    },
+    {
+      "id": "lausanne-based-adaptyv-eu-startups",
+      "name": "Lausanne-based Adaptyv",
+      "logoText": "LA",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/",
+      "description": "Lausanne-based Adaptyv raises €34.35 million Series A to build the automated lab for agentic biology.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-27",
+      "fundingAmount": "€34.35 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/"
+        }
+      ]
+    },
     {
       "id": "ringg-ai-yourstory",
       "name": "Ringg AI",
@@ -2568,68 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/"
-        }
-      ]
-    },
-    {
-      "id": "m-tech-eu",
-      "name": "M",
-      "logoText": "M",
-      "tone": "coral",
-      "website": "https://tech.eu/2026/06/22/a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek-fewer-admin-tools/",
-      "description": "a16z backs Prosper AI with $30M as healthcare providers seek fewer admin tools.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-22",
-      "fundingAmount": "$30M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/22/a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek-fewer-admin-tools/"
-        }
-      ]
-    },
-    {
-      "id": "ghent-based-adomate-eu-startups",
-      "name": "Ghent-based Adomate",
-      "logoText": "GA",
-      "tone": "blue",
-      "website": "https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/",
-      "description": "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale.",
-      "industry": "Consumer social",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-19",
-      "fundingAmount": "€1.4 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/"
         }
       ]
     }
