@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-27T17:43:15.919Z",
+  "lastUpdated": "2026-08-28T18:52:30.156Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "m-techcrunch",
+      "name": "M",
+      "logoText": "M",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+      "description": "Friend-focused photo-sharing app Retro snags $21M.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-28",
+      "fundingAmount": "$21M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"
+        }
+      ]
+    },
+    {
+      "id": "ponda-eu-startups",
+      "name": "Ponda",
+      "logoText": "P",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/",
+      "description": "Biomaterials company Ponda closes crowdfunding round at €1.6 million – welcoming 256 new investors.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-28",
+      "fundingAmount": "€1.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/"
+        }
+      ]
+    },
+    {
+      "id": "lupin-dental-eu-startups",
+      "name": "Lupin Dental",
+      "logoText": "LD",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/",
+      "description": "Montpellier-based dental robotics startup Lupin Dental closes €15 million Series A round.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-28",
+      "fundingAmount": "€15 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/"
+        }
+      ]
+    },
     {
       "id": "atorie-techcrunch",
       "name": "Atorie",
@@ -2537,99 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/06/superliving-raises-7-million-in-series-a-led-by-lightspeed"
-        }
-      ]
-    },
-    {
-      "id": "fika-jobs-tech-eu",
-      "name": "Fika Jobs",
-      "logoText": "FJ",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/06/23/fika-jobs-raises-4m-for-ai-powered-video-resumes/",
-      "description": "Fika Jobs raises $4M for AI-powered video resumes.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-23",
-      "fundingAmount": "$4M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/06/23/fika-jobs-raises-4m-for-ai-powered-video-resumes/"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-s-fika-jobs-silicon-canals",
-      "name": "Stockholm’s Fika Jobs",
-      "logoText": "SF",
-      "tone": "teal",
-      "website": "https://siliconcanals.com/sc-w-stockholms-fika-jobs-just-raised-4m-to-kill-the-resume-with-ai-video-interviews-and-the-part-nobody-is-pricing-in-is-what-happens-when-employers-see-your-face-before-your-skills/",
-      "description": "Stockholm’s Fika Jobs just raised $4M to kill the resume with AI video interviews — and the part nobody is pricing in is what happens when employers see your face before your skills.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-24",
-      "fundingAmount": "$4M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Silicon Canals",
-          "url": "https://siliconcanals.com/sc-w-stockholms-fika-jobs-just-raised-4m-to-kill-the-resume-with-ai-video-interviews-and-the-part-nobody-is-pricing-in-is-what-happens-when-employers-see-your-face-before-your-skills/"
-        }
-      ]
-    },
-    {
-      "id": "varm-eu-startups",
-      "name": "VARM",
-      "logoText": "V",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/",
-      "description": "14 million poorly insulated German homes: VARM raises €17.5 million to expand its installer network.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-23",
-      "fundingAmount": "€17.5 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/"
         }
       ]
     }
