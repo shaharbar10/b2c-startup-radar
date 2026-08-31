@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T18:52:30.156Z",
+  "lastUpdated": "2026-08-31T14:12:52.500Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "finland-s-s-transistors-eu-startups",
+      "name": "Finland’s S-Transistors",
+      "logoText": "FS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/",
+      "description": "Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-08-31",
+      "fundingAmount": "€2.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/"
+        }
+      ]
+    },
     {
       "id": "m-techcrunch",
       "name": "M",
@@ -2599,37 +2630,6 @@
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/"
-        }
-      ]
-    },
-    {
-      "id": "superliving-yourstory",
-      "name": "SuperLiving",
-      "logoText": "S",
-      "tone": "coral",
-      "website": "https://yourstory.com/2026/06/superliving-raises-7-million-in-series-a-led-by-lightspeed",
-      "description": "SuperLiving raises $7M in Series A led by Lightspeed.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-25",
-      "fundingAmount": "$7M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/06/superliving-raises-7-million-in-series-a-led-by-lightspeed"
         }
       ]
     }
