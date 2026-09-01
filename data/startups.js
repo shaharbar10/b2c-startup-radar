@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-08-31T14:12:52.500Z",
+  "lastUpdated": "2026-09-01T11:51:10.490Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "network-inc42",
+      "name": "Network",
+      "logoText": "N",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/",
+      "description": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-01",
+      "fundingAmount": "$35 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/"
+        }
+      ]
+    },
     {
       "id": "finland-s-s-transistors-eu-startups",
       "name": "Finland’s S-Transistors",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/"
-        }
-      ]
-    },
-    {
-      "id": "iii-cities-inc42",
-      "name": "III Cities",
-      "logoText": "IC",
-      "tone": "coral",
-      "website": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/",
-      "description": "Preventive Health Platform SuperLiving Bags $7 Mn To Scale In Tier II & III Cities.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-25",
-      "fundingAmount": "$7 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/"
         }
       ]
     }
