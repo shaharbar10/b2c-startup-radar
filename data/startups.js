@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-03T11:28:43.691Z",
+  "lastUpdated": "2026-09-04T11:32:03.881Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ring-techcrunch",
+      "name": "Ring",
+      "logoText": "R",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "description": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-03",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
+        }
+      ]
+    },
+    {
+      "id": "london-s-ai-score-eu-startups",
+      "name": "London’s AI Score",
+      "logoText": "LA",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/",
+      "description": "London’s AI Score raises €4.6 million to help businesses keep AI agents under control.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-04",
+      "fundingAmount": "€4.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/"
+        }
+      ]
+    },
+    {
+      "id": "octave-energy-eu-startups",
+      "name": "Octave.energy",
+      "logoText": "O",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/profitable-belgian-cleantech-octave-energy-raises-e10-million-to-scale-bess-and-ems-solutions-across-europe/",
+      "description": "Profitable Belgian CleanTech Octave.energy raises €10 million to scale BESS and EMS solutions across Europe.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-04",
+      "fundingAmount": "€10 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/profitable-belgian-cleantech-octave-energy-raises-e10-million-to-scale-bess-and-ems-solutions-across-europe/"
+        }
+      ]
+    },
     {
       "id": "mirava-eu-startups",
       "name": "MIRAVA",
@@ -2537,99 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/"
-        }
-      ]
-    },
-    {
-      "id": "telum-therapeutics-eu-startups",
-      "name": "Telum Therapeutics",
-      "logoText": "TT",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/",
-      "description": "Telum Therapeutics raises €18 million to advance treatments for hospital-acquired infections.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-01",
-      "fundingAmount": "€18 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/"
-        }
-      ]
-    },
-    {
-      "id": "epitome-therapeutics-eu-startups",
-      "name": "Epitome Therapeutics",
-      "logoText": "ET",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
-      "description": "Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-30",
-      "fundingAmount": "€4 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/"
-        }
-      ]
-    },
-    {
-      "id": "germany-s-intu-diagnostics-eu-startups",
-      "name": "Germany’s Intu Diagnostics",
-      "logoText": "GI",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/",
-      "description": "Lab-free testing moves closer to home as Germany’s Intu Diagnostics raises €1.1 million.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-06-26",
-      "fundingAmount": "€1.1 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/"
         }
       ]
     }
