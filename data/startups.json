@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T11:32:03.881Z",
+  "lastUpdated": "2026-09-07T12:50:04.107Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,161 @@
     }
   ],
   "companies": [
+    {
+      "id": "stockholm-based-fluencify-eu-startups",
+      "name": "Stockholm-based Fluencify",
+      "logoText": "SF",
+      "tone": "blue",
+      "website": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/",
+      "description": "Stockholm-based Fluencify raises €3.7 million to scale its end-to-end creator marketing platform.",
+      "industry": "Consumer social",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-07",
+      "fundingAmount": "€3.7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/"
+        }
+      ]
+    },
+    {
+      "id": "jaipur-robotics-eu-startups",
+      "name": "Jaipur Robotics",
+      "logoText": "JR",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/",
+      "description": "Swiss startup Jaipur Robotics raises €4.3 million to expand its AI operating system across more waste-to-energy plants.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-07",
+      "fundingAmount": "€4.3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/"
+        }
+      ]
+    },
+    {
+      "id": "milan-based-cato-eu-startups",
+      "name": "Milan-based Cato",
+      "logoText": "MC",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/",
+      "description": "Milan-based Cato raises €6 million to help companies find and win public tenders with AI.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-07",
+      "fundingAmount": "€6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/"
+        }
+      ]
+    },
+    {
+      "id": "fluencify-tech-eu",
+      "name": "Fluencify",
+      "logoText": "F",
+      "tone": "blue",
+      "website": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/",
+      "description": "Fluencify secures $4.3M to scale its creator campaign platform.",
+      "industry": "Consumer social",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-07",
+      "fundingAmount": "$4.3M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/"
+        }
+      ]
+    },
+    {
+      "id": "cato-tech-eu",
+      "name": "Cato",
+      "logoText": "C",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/",
+      "description": "Cato raises €6M to expand its AI platform for public sector sales.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-07",
+      "fundingAmount": "€6M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/"
+        }
+      ]
+    },
     {
       "id": "ring-techcrunch",
       "name": "Ring",
@@ -2475,161 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/"
-        }
-      ]
-    },
-    {
-      "id": "d2c-sweet-spot-inc42",
-      "name": "D2C Sweet Spot",
-      "logoText": "DS",
-      "tone": "teal",
-      "website": "https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/",
-      "description": "Chocolate Finds Its D2C Sweet Spot.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-07",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/"
-        }
-      ]
-    },
-    {
-      "id": "stoa-tech-eu",
-      "name": "Stoa",
-      "logoText": "S",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/",
-      "description": "Stoa secures $2.4M for cash rewards platform.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-06",
-      "fundingAmount": "$2.4M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/"
-        }
-      ]
-    },
-    {
-      "id": "bidscript-eu-startups",
-      "name": "BidScript",
-      "logoText": "B",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/",
-      "description": "BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed funding.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-02",
-      "fundingAmount": "€701K",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/"
-        }
-      ]
-    },
-    {
-      "id": "wellness-brands-inc42",
-      "name": "Wellness Brands",
-      "logoText": "WB",
-      "tone": "coral",
-      "website": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/",
-      "description": "BCT Ventures Nets ₹42 Cr To Build AI-Led Nutrition & Wellness Brands.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-02",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/"
-        }
-      ]
-    },
-    {
-      "id": "brym-tech-eu",
-      "name": "BRYM",
-      "logoText": "B",
-      "tone": "coral",
-      "website": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/",
-      "description": "BRYM secures €650K to develop wearable neurofeedback platform.",
-      "industry": "Consumer hardware",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-02",
-      "fundingAmount": "€650K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/"
         }
       ]
     }
