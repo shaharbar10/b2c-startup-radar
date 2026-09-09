@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T11:31:35.667Z",
+  "lastUpdated": "2026-09-09T11:36:51.251Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "limetax-eu-startups",
+      "name": "Limetax",
+      "logoText": "L",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/",
+      "description": "Limetax lands €36 million to build an AI-powered group of German tax and accounting firms.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-09",
+      "fundingAmount": "€36 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/"
+        }
+      ]
+    },
+    {
+      "id": "tellia-eu-startups",
+      "name": "Tellia",
+      "logoText": "T",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/",
+      "description": "French AgTech startup Tellia raises €4.3 million to scale voice-enabled data capture.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-08",
+      "fundingAmount": "€4.3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/"
+        }
+      ]
+    },
     {
       "id": "fund-ii-eu-startups",
       "name": "Fund II",
@@ -2568,68 +2630,6 @@
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/07/08/kord-secures-ps64m-to-unify-onboarding-compliance-and-payments/"
-        }
-      ]
-    },
-    {
-      "id": "polysense-tech-eu",
-      "name": "Polysense",
-      "logoText": "P",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/08/polysense-raises-107m-to-scale-ai-quality-control-for-food-manufacturers/",
-      "description": "Polysense raises $10.7M to scale AI quality control for food manufacturers.",
-      "industry": "Consumer packaged goods",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-08",
-      "fundingAmount": "$10.7M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/08/polysense-raises-107m-to-scale-ai-quality-control-for-food-manufacturers/"
-        }
-      ]
-    },
-    {
-      "id": "aardaia-eu-startups",
-      "name": "Aardaia",
-      "logoText": "A",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/dutch-startup-aardaia-raises-e5m-to-turn-wild-plants-into-new-crops-and-develop-its-protein-potato/",
-      "description": "Dutch startup Aardaia raises €5 million to turn wild plants into new crops and develop its “protein potato”.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-08",
-      "fundingAmount": "€5 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/dutch-startup-aardaia-raises-e5m-to-turn-wild-plants-into-new-crops-and-develop-its-protein-potato/"
         }
       ]
     }
