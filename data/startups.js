@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-09T11:36:51.251Z",
+  "lastUpdated": "2026-09-10T11:34:55.139Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "offline-inc42",
+      "name": "Offline",
+      "logoText": "O",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/",
+      "description": "D2C Fashion Startup Theater Bags ₹75 Cr To Expand Offline.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-10",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/"
+        }
+      ]
+    },
+    {
+      "id": "theater-yourstory",
+      "name": "Theater",
+      "logoText": "T",
+      "tone": "teal",
+      "website": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay",
+      "description": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-10",
+      "fundingAmount": "Amount not clear",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
+        }
+      ]
+    },
     {
       "id": "limetax-eu-startups",
       "name": "Limetax",
@@ -2568,68 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/"
-        }
-      ]
-    },
-    {
-      "id": "london-s-axle-energy-eu-startups",
-      "name": "London’s Axle Energy",
-      "logoText": "LA",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/as-power-demand-rises-from-electrification-and-data-centres-londons-axle-energy-raises-e21-million-for-energy-flexibility/",
-      "description": "As power demand rises from electrification and data centres, London’s Axle Energy raises €21 million for energy flexibility.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-08",
-      "fundingAmount": "€21 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/as-power-demand-rises-from-electrification-and-data-centres-londons-axle-energy-raises-e21-million-for-energy-flexibility/"
-        }
-      ]
-    },
-    {
-      "id": "kord-tech-eu",
-      "name": "Kord",
-      "logoText": "K",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/08/kord-secures-ps64m-to-unify-onboarding-compliance-and-payments/",
-      "description": "Kord secures £6.4M to unify onboarding, compliance and payments.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-08",
-      "fundingAmount": "£6.4M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/08/kord-secures-ps64m-to-unify-onboarding-compliance-and-payments/"
         }
       ]
     }
