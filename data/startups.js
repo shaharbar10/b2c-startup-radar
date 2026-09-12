@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-10T11:34:55.139Z",
+  "lastUpdated": "2026-09-12T11:00:27.456Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "agtech-gravity-gardens-eu-startups",
+      "name": "AgTech Gravity Gardens",
+      "logoText": "AG",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/",
+      "description": "Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free seed activation technology.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-11",
+      "fundingAmount": "€2.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/"
+        }
+      ]
+    },
+    {
+      "id": "vc-yourstory",
+      "name": "VC",
+      "logoText": "V",
+      "tone": "coral",
+      "website": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week",
+      "description": "[Weekly funding roundup Sept 5-11] VC inflow doubles this week.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-11",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week"
+        }
+      ]
+    },
     {
       "id": "offline-inc42",
       "name": "Offline",
@@ -2568,68 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/"
-        }
-      ]
-    },
-    {
-      "id": "gradium-techcrunch",
-      "name": "Gradium",
-      "logoText": "G",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "description": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-09",
-      "fundingAmount": "$100M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
-        }
-      ]
-    },
-    {
-      "id": "alchemab-therapeutics-eu-startups",
-      "name": "Alchemab Therapeutics",
-      "logoText": "AT",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/",
-      "description": "Alchemab Therapeutics secures €29.3 million as British Business Bank makes its largest life sciences investment yet.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-09",
-      "fundingAmount": "€29.3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/"
         }
       ]
     }
