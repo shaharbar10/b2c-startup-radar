@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-12T11:00:27.456Z",
+  "lastUpdated": "2026-09-14T13:06:33.373Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "seed-eu-startups",
+      "name": "Seed",
+      "logoText": "S",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/",
+      "description": "EXCLUSIVE: Switzerland’s Aeon acquires Aware Health as total Seed funding surpasses €12 million.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-14",
+      "fundingAmount": "€12 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/"
+        }
+      ]
+    },
+    {
+      "id": "chift-tech-eu",
+      "name": "Chift",
+      "logoText": "C",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/",
+      "description": "Chift raises €10.5M Series A to scale financial connectivity across Europe.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-14",
+      "fundingAmount": "€10.5M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/"
+        }
+      ]
+    },
     {
       "id": "agtech-gravity-gardens-eu-startups",
       "name": "AgTech Gravity Gardens",
@@ -2568,68 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/07/15/nous-secures-eur23m-seed-funding-to-scale-koncentra/"
-        }
-      ]
-    },
-    {
-      "id": "paris-based-mio-eu-startups",
-      "name": "Paris-based Mio",
-      "logoText": "PM",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/",
-      "description": "Paris-based Mio emerges from stealth with €1.9 million to build an AI colleague that lives inside Slack.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-15",
-      "fundingAmount": "€1.9 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/"
-        }
-      ]
-    },
-    {
-      "id": "europe-eu-startups",
-      "name": "Europe",
-      "logoText": "E",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/",
-      "description": "Netflix alumni-founded Nopan reaches €7.2 million in funding to scale account and wallet payments across Europe.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-14",
-      "fundingAmount": "€7.2 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/"
         }
       ]
     }
