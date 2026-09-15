@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T13:06:33.373Z",
+  "lastUpdated": "2026-09-15T11:56:05.786Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "helsinki-s-zero-eu-startups",
+      "name": "Helsinki’s Zero",
+      "logoText": "HZ",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/",
+      "description": "Helsinki’s Zero raises €8.93 million with backing from Lovable and Supercell founders to make CRM history.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-15",
+      "fundingAmount": "€8.93 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/"
+        }
+      ]
+    },
     {
       "id": "seed-eu-startups",
       "name": "Seed",
@@ -2599,37 +2630,6 @@
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/07/15/saible-raises-ps29m-to-tackle-constructions-chronic-late-payment-crisis/"
-        }
-      ]
-    },
-    {
-      "id": "nous-tech-eu",
-      "name": "Nous",
-      "logoText": "N",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/15/nous-secures-eur23m-seed-funding-to-scale-koncentra/",
-      "description": "Nous secures €2.3M+ seed funding to scale Koncentra.",
-      "industry": "Consumer packaged goods",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-15",
-      "fundingAmount": "€2.3M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/15/nous-secures-eur23m-seed-funding-to-scale-koncentra/"
         }
       ]
     }
