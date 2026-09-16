@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-15T11:56:05.786Z",
+  "lastUpdated": "2026-09-16T11:52:11.412Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,161 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "berlin-based-integral-eu-startups",
+      "name": "Berlin-based Integral",
+      "logoText": "BI",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/",
+      "description": "Berlin-based Integral raises €18 million to deliver AI-run accounting, tax and payroll services to SMEs.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-16",
+      "fundingAmount": "€18 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/"
+        }
+      ]
+    },
+    {
+      "id": "crane-venture-partners-eu-startups",
+      "name": "Crane Venture Partners",
+      "logoText": "CV",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
+      "description": "Crane Venture Partners raises €419 million as it expands across Europe, APAC and the US.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-15",
+      "fundingAmount": "€419 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/"
+        }
+      ]
+    },
+    {
+      "id": "quartz-tech-eu",
+      "name": "Quartz",
+      "logoText": "Q",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/",
+      "description": "Quartz launches with £2.75M to build a personal banker for everyone.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-16",
+      "fundingAmount": "£2.75M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/"
+        }
+      ]
+    },
+    {
+      "id": "copenhagen-s-complir-tech-eu",
+      "name": "Copenhagen’s Complir",
+      "logoText": "CC",
+      "tone": "amber",
+      "website": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/",
+      "description": "Copenhagen’s Complir raises $11M to tackle product compliance bottlenecks.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-16",
+      "fundingAmount": "$11M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/"
+        }
+      ]
+    },
+    {
+      "id": "platform-inc42",
+      "name": "Platform",
+      "logoText": "P",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/",
+      "description": "Firi Bags $3 Mn To Expand Beauty Quick Commerce Platform.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-16",
+      "fundingAmount": "$3 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/"
+        }
+      ]
+    },
     {
       "id": "helsinki-s-zero-eu-startups",
       "name": "Helsinki’s Zero",
@@ -2475,161 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/"
-        }
-      ]
-    },
-    {
-      "id": "m-series-a-techcrunch",
-      "name": "M Series A",
-      "logoText": "MS",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-      "description": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-16",
-      "fundingAmount": "$30M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/"
-        }
-      ]
-    },
-    {
-      "id": "applied-computing-techcrunch",
-      "name": "Applied Computing",
-      "logoText": "AC",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "description": "Applied Computing wants to give oil and gas operators an AI model for the entire plant.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-16",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
-        }
-      ]
-    },
-    {
-      "id": "dutch-eu-startups",
-      "name": "Dutch",
-      "logoText": "D",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/07/norrsken-evolve-formalises-dutch-presence-following-e62-million-fund-close/",
-      "description": "Norrsken Evolve formalises Dutch presence following €62 million fund close.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-15",
-      "fundingAmount": "€62 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/norrsken-evolve-formalises-dutch-presence-following-e62-million-fund-close/"
-        }
-      ]
-    },
-    {
-      "id": "arq-tech-eu",
-      "name": "Arq",
-      "logoText": "A",
-      "tone": "coral",
-      "website": "https://tech.eu/2026/07/16/arq-secures-14m-pre-seed-for-quantum-internet-technology/",
-      "description": "Arq secures $1.4M pre-seed for quantum internet technology.",
-      "industry": "Consumer hardware",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-16",
-      "fundingAmount": "$1.4M",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/16/arq-secures-14m-pre-seed-for-quantum-internet-technology/"
-        }
-      ]
-    },
-    {
-      "id": "saible-tech-eu",
-      "name": "Saible",
-      "logoText": "S",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/15/saible-raises-ps29m-to-tackle-constructions-chronic-late-payment-crisis/",
-      "description": "Saible raises £2.9M to tackle construction's chronic late-payment crisis.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-15",
-      "fundingAmount": "£2.9M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/15/saible-raises-ps29m-to-tackle-constructions-chronic-late-payment-crisis/"
         }
       ]
     }
