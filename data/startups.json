@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T11:52:11.412Z",
+  "lastUpdated": "2026-09-17T11:55:05.501Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "apaii-yourstory",
+      "name": "APAII",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://yourstory.com/2026/09/apaii-30-angel-funds-strengthen-early-stage-funding-for-startups",
+      "description": "APAII launched with 30+ angel funds to strengthen early-stage funding for startups.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-16",
+      "fundingAmount": "Amount not clear",
+      "round": "Angel",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/09/apaii-30-angel-funds-strengthen-early-stage-funding-for-startups"
+        }
+      ]
+    },
     {
       "id": "berlin-based-integral-eu-startups",
       "name": "Berlin-based Integral",
@@ -2599,37 +2630,6 @@
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/aina-raises-5-5-mn-from-info-edge-ventures-360-one-asset-to-build-ai-native-interfaces/"
-        }
-      ]
-    },
-    {
-      "id": "capacity-inc42",
-      "name": "Capacity",
-      "logoText": "C",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/",
-      "description": "Beauty Products Manufacturer Naturis Cosmetics Nets ₹100 Cr To Expand Capacity.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-16",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/"
         }
       ]
     }
