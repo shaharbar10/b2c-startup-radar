@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T11:32:32.113Z",
+  "lastUpdated": "2026-09-21T13:04:38.147Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "corridor-techcrunch",
+      "name": "Corridor",
+      "logoText": "C",
+      "tone": "coral",
+      "website": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "description": "Corridor raises $25M seed to build a health benefits brokerage for SMBs.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-21",
+      "fundingAmount": "$25M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+        }
+      ]
+    },
+    {
+      "id": "london-s-metris-energy-eu-startups",
+      "name": "London’s Metris Energy",
+      "logoText": "LM",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/",
+      "description": "London’s Metris Energy raises €4.35 million to scale AI platform for managing renewable energy assets.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-21",
+      "fundingAmount": "€4.35 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/"
+        }
+      ]
+    },
     {
       "id": "antwerp-based-tusk-ic-eu-startups",
       "name": "Antwerp-based TUSK IC",
@@ -2568,68 +2630,6 @@
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/traveltech-startup-30-sundays-raises-%e2%82%b961-cr-to-expand-ai-powered-holiday-planning/"
-        }
-      ]
-    },
-    {
-      "id": "antwerp-s-sightera-biosciences-eu-startups",
-      "name": "Antwerp’s Sightera Biosciences",
-      "logoText": "AS",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/",
-      "description": "Antwerp’s Sightera Biosciences raises €3 million to scale its patient-derived AI drug discovery platform.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-17",
-      "fundingAmount": "€3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/"
-        }
-      ]
-    },
-    {
-      "id": "alan-turing-tech-funding-news",
-      "name": "Alan Turing",
-      "logoText": "AT",
-      "tone": "teal",
-      "website": "https://techfundingnews.com/this-munich-startup-founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an-alan-turing-researcher-just-raised-55m-in-germanys-largest-ever-seed-round/",
-      "description": "This Munich startup founded by two F1 engineers, a WhatsApp entrepreneur, and an Alan Turing researcher just raised $55M in Germany’s largest-ever seed round.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-17",
-      "fundingAmount": "$55M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/this-munich-startup-founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an-alan-turing-researcher-just-raised-55m-in-germanys-largest-ever-seed-round/"
         }
       ]
     }
