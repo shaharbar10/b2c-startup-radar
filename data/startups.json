@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T13:04:38.147Z",
+  "lastUpdated": "2026-09-22T11:55:00.859Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "spott-tech-eu",
+      "name": "Spott",
+      "logoText": "S",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies/",
+      "description": "Spott secures $21M Series A to expand its AI platform for recruitment agencies.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-22",
+      "fundingAmount": "$21M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies/"
+        }
+      ]
+    },
+    {
+      "id": "benford-tech-eu",
+      "name": "Benford",
+      "logoText": "B",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/22/benford-raises-eur5m-to-rebuild-financial-audit-from-the-ground-up/",
+      "description": "Benford raises €5M to rebuild financial audit from the ground up.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-22",
+      "fundingAmount": "€5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/22/benford-raises-eur5m-to-rebuild-financial-audit-from-the-ground-up/"
+        }
+      ]
+    },
     {
       "id": "corridor-techcrunch",
       "name": "Corridor",
@@ -2568,68 +2630,6 @@
         {
           "label": "Crunchbase News",
           "url": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/"
-        }
-      ]
-    },
-    {
-      "id": "iceland-s-sowilo-tech-eu",
-      "name": "Iceland’s Sowilo",
-      "logoText": "IS",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/",
-      "description": "Iceland’s Sowilo raises pre-seed to expand AI-powered fashion product intelligence platform.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-21",
-      "fundingAmount": "Amount not clear",
-      "round": "Pre-seed",
-      "roundKey": "pre-seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/"
-        }
-      ]
-    },
-    {
-      "id": "sundays-inc42",
-      "name": "Sundays",
-      "logoText": "S",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/traveltech-startup-30-sundays-raises-%e2%82%b961-cr-to-expand-ai-powered-holiday-planning/",
-      "description": "Traveltech Startup 30 Sundays Raises ₹61 Cr To Expand AI-Powered Holiday Planning.",
-      "industry": "Travel",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-21",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/traveltech-startup-30-sundays-raises-%e2%82%b961-cr-to-expand-ai-powered-holiday-planning/"
         }
       ]
     }
