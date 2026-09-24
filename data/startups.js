@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-23T11:53:59.253Z",
+  "lastUpdated": "2026-09-24T12:01:21.064Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "a-bit-in-crunchbase-news",
+      "name": "A Bit In",
+      "logoText": "AB",
+      "tone": "blue",
+      "website": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
+      "description": "Gaming Startup Funding Levels Up A Bit In 2026.",
+      "industry": "Gaming",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-24",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Crunchbase News",
+          "url": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/"
+        }
+      ]
+    },
+    {
+      "id": "amsterdam-based-duqu-eu-startups",
+      "name": "Amsterdam-based Duqu",
+      "logoText": "AD",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/",
+      "description": "Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid invoices.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-24",
+      "fundingAmount": "€1.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/"
+        }
+      ]
+    },
+    {
+      "id": "crux-analytics-tech-eu",
+      "name": "Crux Analytics",
+      "logoText": "CA",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/09/24/crux-analytics-raises-eur19m-to-help-banks-win-and-retain-small-business-customers/",
+      "description": "Crux Analytics raises €1.9M to help banks win and retain small business customers.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-24",
+      "fundingAmount": "€1.9M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/24/crux-analytics-raises-eur19m-to-help-banks-win-and-retain-small-business-customers/"
+        }
+      ]
+    },
     {
       "id": "berlin-based-eu-startups",
       "name": "Berlin-based",
@@ -2537,99 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/"
-        }
-      ]
-    },
-    {
-      "id": "carpl-ai-yourstory",
-      "name": "CARPL.ai",
-      "logoText": "C",
-      "tone": "amber",
-      "website": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc",
-      "description": "Tech30 startup CARPL.ai raises $10M in Series A led by IFC.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-23",
-      "fundingAmount": "$10M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc"
-        }
-      ]
-    },
-    {
-      "id": "yope-techcrunch",
-      "name": "Yope",
-      "logoText": "Y",
-      "tone": "blue",
-      "website": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "description": "Yope raises $12.3M to build a private social network without algorithms or ads.",
-      "industry": "Consumer social",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-22",
-      "fundingAmount": "$12.3M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
-        }
-      ]
-    },
-    {
-      "id": "nernst-electric-eu-startups",
-      "name": "Nernst Electric",
-      "logoText": "NE",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/",
-      "description": "Nernst Electric raises €1.7 million to scale on-site oxygen generation technology for aquaculture and heavy industry.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-23",
-      "fundingAmount": "€1.7 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/"
         }
       ]
     }
