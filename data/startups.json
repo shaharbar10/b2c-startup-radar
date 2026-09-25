@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T12:01:21.064Z",
+  "lastUpdated": "2026-09-25T12:01:24.897Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "rio-health-inc42",
+      "name": "Rio Health",
+      "logoText": "RH",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/",
+      "description": "Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-24",
+      "fundingAmount": "$4.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/"
+        }
+      ]
+    },
     {
       "id": "a-bit-in-crunchbase-news",
       "name": "A Bit In",
@@ -2599,37 +2630,6 @@
         {
           "label": "Tech Funding News",
           "url": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/"
-        }
-      ]
-    },
-    {
-      "id": "imaging-marketplace-inc42",
-      "name": "Imaging Marketplace",
-      "logoText": "IM",
-      "tone": "coral",
-      "website": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/",
-      "description": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-23",
-      "fundingAmount": "$10 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/"
         }
       ]
     }
