@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T12:01:24.897Z",
+  "lastUpdated": "2026-09-29T13:10:28.187Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,130 @@
     }
   ],
   "companies": [
+    {
+      "id": "paris-based-rayon-eu-startups",
+      "name": "Paris-based Rayon",
+      "logoText": "PR",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/",
+      "description": "Paris-based Rayon raises €10 million to build the drawing layer for interior design’s AI era.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-29",
+      "fundingAmount": "€10 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/"
+        }
+      ]
+    },
+    {
+      "id": "dod-solution-eu-startups",
+      "name": "DOD Solution",
+      "logoText": "DS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/",
+      "description": "Combat-tested in Ukraine, DOD Solution raises €1.8 million to scale AI autonomy for unmanned systems.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-28",
+      "fundingAmount": "€1.8 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/"
+        }
+      ]
+    },
+    {
+      "id": "romania-s-kyndred-tech-eu",
+      "name": "Romania’s Kyndred",
+      "logoText": "RK",
+      "tone": "blue",
+      "website": "https://tech.eu/2026/09/29/romanias-kyndred-raises-eur500k-from-early-game-ventures-to-build-ai-companions/",
+      "description": "Romania’s Kyndred raises €500K from Early Game Ventures to build AI companions.",
+      "industry": "Gaming",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-29",
+      "fundingAmount": "€500K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/29/romanias-kyndred-raises-eur500k-from-early-game-ventures-to-build-ai-companions/"
+        }
+      ]
+    },
+    {
+      "id": "ipercept-tech-eu",
+      "name": "IPercept",
+      "logoText": "I",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/09/29/swedish-machine-fitness-tracker-ipercept-raises-165m/",
+      "description": "Swedish machine fitness tracker IPercept raises $16.5M.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-29",
+      "fundingAmount": "$16.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/09/29/swedish-machine-fitness-tracker-ipercept-raises-165m/"
+        }
+      ]
+    },
     {
       "id": "rio-health-inc42",
       "name": "Rio Health",
@@ -2506,130 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/"
-        }
-      ]
-    },
-    {
-      "id": "zuriq-eu-startups",
-      "name": "ZuriQ",
-      "logoText": "Z",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/",
-      "description": "Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum processors.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "€22.4 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/"
-        }
-      ]
-    },
-    {
-      "id": "zuriq-tech-eu",
-      "name": "ZuriQ",
-      "logoText": "Z",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
-      "description": "ZuriQ raises $25.5M to scale its breakthrough 2D quantum architecture.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "$25.5M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/"
-        }
-      ]
-    },
-    {
-      "id": "ditto-tech-funding-news",
-      "name": "DITTO",
-      "logoText": "D",
-      "tone": "coral",
-      "website": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/",
-      "description": "FoodLabs and Eka Ventures lead $6M seed round for female-led menstrual health startup DITTO.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "$6M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/"
-        }
-      ]
-    },
-    {
-      "id": "snapchat-tech-funding-news",
-      "name": "Snapchat",
-      "logoText": "S",
-      "tone": "teal",
-      "website": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/",
-      "description": "Spotify’s initial backer leads $12.3M round for Yope to build a private alternative to Snapchat.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-23",
-      "fundingAmount": "$12.3M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/"
         }
       ]
     }
