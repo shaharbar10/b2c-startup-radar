@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-09-29T13:10:28.187Z",
+  "lastUpdated": "2026-09-30T12:50:38.803Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "edt-inc42",
+      "name": "EDT",
+      "logoText": "E",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/consumer-appliance-startup-edt-raises-2-4-mn-to-expand-product-portfolio/",
+      "description": "Consumer Appliance Startup EDT Raises $2.4 Mn To Expand Product Portfolio.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-30",
+      "fundingAmount": "$2.4 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/consumer-appliance-startup-edt-raises-2-4-mn-to-expand-product-portfolio/"
+        }
+      ]
+    },
     {
       "id": "paris-based-rayon-eu-startups",
       "name": "Paris-based Rayon",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/07/building-materials-quick-commerce-startup-fixxly-seed-round"
-        }
-      ]
-    },
-    {
-      "id": "ditto-eu-startups",
-      "name": "DITTO",
-      "logoText": "D",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/",
-      "description": "DITTO raises €5.2 million to tackle menstrual health gaps with research and targeted supplements.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "€5.2 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/"
         }
       ]
     }
