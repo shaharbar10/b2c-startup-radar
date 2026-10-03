@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-10-01T13:37:32.590Z",
+  "lastUpdated": "2026-10-03T11:51:42.320Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "why-e27",
+      "name": "Why",
+      "logoText": "W",
+      "tone": "amber",
+      "website": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
+      "description": "Why social commerce seeding is replacing upfront influencer retainers.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-09-30",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "e27",
+          "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/"
+        }
+      ]
+    },
     {
       "id": "berlin-based-restate-tech-eu",
       "name": "Berlin-based Restate",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech Funding News",
           "url": "https://techfundingnews.com/revolut-seed-pitch-deck-115b-valuation-us-bank-charter/"
-        }
-      ]
-    },
-    {
-      "id": "fixxly-inc42",
-      "name": "Fixxly",
-      "logoText": "F",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/",
-      "description": "Building Materials Quick Commerce Startup Fixxly Raises $5.5 Mn.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-29",
-      "fundingAmount": "$5.5 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/"
         }
       ]
     }
