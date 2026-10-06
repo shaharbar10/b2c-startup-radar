@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T11:51:42.320Z",
+  "lastUpdated": "2026-10-06T13:28:26.995Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,161 @@
     }
   ],
   "companies": [
+    {
+      "id": "flai-s-ai-techcrunch",
+      "name": "Flai’s AI",
+      "logoText": "FA",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "description": "Flai’s AI dealership software is booking 50,000 appointments per month.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-06",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
+        }
+      ]
+    },
+    {
+      "id": "nvm-ventures-eu-startups",
+      "name": "NVM Ventures",
+      "logoText": "NV",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/nvm-ventures-launches-with-e23-6-million-fund-targeting-dual-use-companies/",
+      "description": "NVM Ventures launches with €23.6 million fund targeting dual-use companies.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-06",
+      "fundingAmount": "€23.6 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/nvm-ventures-launches-with-e23-6-million-fund-targeting-dual-use-companies/"
+        }
+      ]
+    },
+    {
+      "id": "circula-eu-startups",
+      "name": "Circula",
+      "logoText": "C",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/german-unicorn-personio-acquires-spend-management-platform-circula/",
+      "description": "German unicorn Personio acquires spend management platform Circula.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-06",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/german-unicorn-personio-acquires-spend-management-platform-circula/"
+        }
+      ]
+    },
+    {
+      "id": "europe-tech-eu",
+      "name": "Europe",
+      "logoText": "E",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/10/06/cleavr-bags-eur8m-to-scale-ai-powered-invoice-collection-across-europe/",
+      "description": "Cleavr bags €8M to scale AI-powered invoice collection across Europe.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-06",
+      "fundingAmount": "€8M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/06/cleavr-bags-eur8m-to-scale-ai-powered-invoice-collection-across-europe/"
+        }
+      ]
+    },
+    {
+      "id": "finmid-tech-eu",
+      "name": "Finmid",
+      "logoText": "F",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/10/06/n26-founder-backed-finmid-raises-eur17m-series-a-extension-strikes-bolt-deal/",
+      "description": "N26 founder-backed Finmid raises €17M Series A extension, strikes Bolt deal.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-06",
+      "fundingAmount": "€17M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/06/n26-founder-backed-finmid-raises-eur17m-series-a-extension-strikes-bolt-deal/"
+        }
+      ]
+    },
     {
       "id": "why-e27",
       "name": "Why",
@@ -2475,161 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/"
-        }
-      ]
-    },
-    {
-      "id": "paris-based-apolownia-eu-startups",
-      "name": "Paris-based Apolownia",
-      "logoText": "PA",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/",
-      "description": "Paris-based Apolownia raises €1 million to scale coastal restoration and blue carbon projects.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-31",
-      "fundingAmount": "€1 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/"
-        }
-      ]
-    },
-    {
-      "id": "arboreal-bioinnovations-inc42",
-      "name": "Arboreal Bioinnovations",
-      "logoText": "AB",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/arboreal-bioinnovations-raises-%e2%82%b9230-cr-to-supply-nutrition-ingredients-to-brands/",
-      "description": "Arboreal Bioinnovations Raises ₹230 Cr To Supply Nutrition Ingredients To Brands.",
-      "industry": "Consumer packaged goods",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-31",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/arboreal-bioinnovations-raises-%e2%82%b9230-cr-to-supply-nutrition-ingredients-to-brands/"
-        }
-      ]
-    },
-    {
-      "id": "throne-science-crunchbase-news",
-      "name": "Throne Science",
-      "logoText": "TS",
-      "tone": "coral",
-      "website": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
-      "description": "Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To Track Gut Health From The Toilet.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "$10M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Crunchbase News",
-          "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/"
-        }
-      ]
-    },
-    {
-      "id": "britain-s-eu-startups",
-      "name": "Britain’s",
-      "logoText": "B",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/",
-      "description": "Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding wheat business.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-29",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/"
-        }
-      ]
-    },
-    {
-      "id": "what-revolut-s-tech-funding-news",
-      "name": "What Revolut’s",
-      "logoText": "WR",
-      "tone": "teal",
-      "website": "https://techfundingnews.com/revolut-seed-pitch-deck-115b-valuation-us-bank-charter/",
-      "description": "What Revolut’s 2015 pitch deck didn’t see coming: A $115B valuation and US banking fight.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-07-28",
-      "fundingAmount": "$115B",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/revolut-seed-pitch-deck-115b-valuation-us-bank-charter/"
         }
       ]
     }
