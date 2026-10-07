@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-10-06T13:28:26.995Z",
+  "lastUpdated": "2026-10-07T13:39:58.463Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "lumio-inc42",
+      "name": "Lumio",
+      "logoText": "L",
+      "tone": "teal",
+      "website": "https://inc42.com/buzz/lumio-raises-12-mn-to-scale-consumer-electronics-portfolio/",
+      "description": "Lumio Raises $12 Mn To Scale Consumer Electronics Portfolio.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-07",
+      "fundingAmount": "$12 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/lumio-raises-12-mn-to-scale-consumer-electronics-portfolio/"
+        }
+      ]
+    },
     {
       "id": "flai-s-ai-techcrunch",
       "name": "Flai’s AI",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/"
-        }
-      ]
-    },
-    {
-      "id": "ore-energy-eu-startups",
-      "name": "Ore Energy",
-      "logoText": "OE",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/",
-      "description": "Ore Energy raises €37.3 million to scale iron-air batteries that store renewable power for up to 100 hours.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-04",
-      "fundingAmount": "€37.3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/"
         }
       ]
     }
