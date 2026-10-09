@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T13:47:49.126Z",
+  "lastUpdated": "2026-10-09T13:37:21.521Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "zurich-s-klarent-eu-startups",
+      "name": "Zurich’s Klarent",
+      "logoText": "ZK",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/zurichs-klarent-raises-e7-13-million-to-scale-its-agentic-software-testing-platform-and-expand-into-the-us/",
+      "description": "Zurich’s Klarent raises €7.13 million to scale its agentic software testing platform and expand into the US.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-09",
+      "fundingAmount": "€7.13 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/zurichs-klarent-raises-e7-13-million-to-scale-its-agentic-software-testing-platform-and-expand-into-the-us/"
+        }
+      ]
+    },
+    {
+      "id": "retail-footprint-inc42",
+      "name": "Retail Footprint",
+      "logoText": "RF",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/menswear-brand-kisah-nets-%e2%82%b935-9-cr-to-scale-retail-footprint/",
+      "description": "Menswear Brand KISAH Nets ₹35.9 Cr To Scale Retail Footprint.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-09",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/menswear-brand-kisah-nets-%e2%82%b935-9-cr-to-scale-retail-footprint/"
+        }
+      ]
+    },
     {
       "id": "universal-quantum-eu-startups",
       "name": "Universal Quantum",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/"
-        }
-      ]
-    },
-    {
-      "id": "british-army-eu-startups",
-      "name": "British Army",
-      "logoText": "BA",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/",
-      "description": "London’s Safehire.ai, founded by ex-British Army officers, secures €583.2k to scale AI-powered digital risk screening.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-07",
-      "fundingAmount": "€583.2K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/"
-        }
-      ]
-    },
-    {
-      "id": "gati-drives-yourstory",
-      "name": "Gati Drives",
-      "logoText": "GD",
-      "tone": "teal",
-      "website": "https://yourstory.com/2026/08/gati-drives-rare-earth-free-motors",
-      "description": "Gati Drives builds rare-earth-free electric motors for Indian appliance and HVAC manufacturers.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-07",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/08/gati-drives-rare-earth-free-motors"
         }
       ]
     }
