@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-10-09T13:37:21.521Z",
+  "lastUpdated": "2026-10-13T14:26:27.264Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ubitium-tech-eu",
+      "name": "Ubitium",
+      "logoText": "U",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/",
+      "description": "Ubitium raises $14M to bring universal computing to physical AI.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-13",
+      "fundingAmount": "$14M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/"
+        }
+      ]
+    },
     {
       "id": "zurich-s-klarent-eu-startups",
       "name": "Zurich’s Klarent",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/"
-        }
-      ]
-    },
-    {
-      "id": "oslo-based-visoid-eu-startups",
-      "name": "Oslo-based Visoid",
-      "logoText": "OV",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/",
-      "description": "Oslo-based Visoid raises €2.1 million to scale its AI visualisation platform for architects.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-10",
-      "fundingAmount": "€2.1 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/"
         }
       ]
     }
