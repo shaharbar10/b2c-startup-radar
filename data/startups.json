@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T11:49:09.533Z",
+  "lastUpdated": "2026-10-17T11:01:16.139Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "dj-reinier-zonneveld-tech-eu",
+      "name": "DJ Reinier Zonneveld",
+      "logoText": "DR",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/",
+      "description": "DJ Reinier Zonneveld launches AI music startup GasLab with $1M pre-seed funding.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-16",
+      "fundingAmount": "$1M",
+      "round": "Pre-seed",
+      "roundKey": "pre-seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/"
+        }
+      ]
+    },
     {
       "id": "chariot-crunchbase-news",
       "name": "Chariot",
@@ -2599,37 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/"
-        }
-      ]
-    },
-    {
-      "id": "artwod-eu-startups",
-      "name": "Artwod",
-      "logoText": "A",
-      "tone": "amber",
-      "website": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/",
-      "description": "Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-20",
-      "fundingAmount": "€1.1 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/"
         }
       ]
     }
