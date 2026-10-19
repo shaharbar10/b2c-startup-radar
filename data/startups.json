@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T11:01:16.139Z",
+  "lastUpdated": "2026-10-19T13:44:38.143Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "ai-eu-startups",
+      "name": "AI",
+      "logoText": "A",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/",
+      "description": "Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-19",
+      "fundingAmount": "€2.94 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/"
+        }
+      ]
+    },
+    {
+      "id": "amsterdam-s-huppa-eu-startups",
+      "name": "Amsterdam’s Huppa",
+      "logoText": "AH",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/",
+      "description": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-19",
+      "fundingAmount": "€1 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/"
+        }
+      ]
+    },
     {
       "id": "dj-reinier-zonneveld-tech-eu",
       "name": "DJ Reinier Zonneveld",
@@ -2568,68 +2630,6 @@
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a"
-        }
-      ]
-    },
-    {
-      "id": "personal-care-portfolio-inc42",
-      "name": "Personal Care Portfolio",
-      "logoText": "PC",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/",
-      "description": "D2C Brand Be Clinical Bags ₹21 Cr To Expand Beauty & Personal Care Portfolio.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-22",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/"
-        }
-      ]
-    },
-    {
-      "id": "uk-based-hexseed-eu-startups",
-      "name": "UK-based HexSeed",
-      "logoText": "UH",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/",
-      "description": "UK-based HexSeed raises over €700k to cool AI data centres with its with diamond coating technology.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-21",
-      "fundingAmount": "€700K",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/"
         }
       ]
     }
