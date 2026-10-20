@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T13:44:38.143Z",
+  "lastUpdated": "2026-10-20T11:54:25.446Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "copenhagen-s-plinto-eu-startups",
+      "name": "Copenhagen’s Plinto",
+      "logoText": "CP",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/",
+      "description": "Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-20",
+      "fundingAmount": "€2.9 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/"
+        }
+      ]
+    },
+    {
+      "id": "coherence-quantum-tech-eu",
+      "name": "Coherence Quantum",
+      "logoText": "CQ",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/",
+      "description": "Coherence Quantum raises €2.78M to tackle quantum computer scaling challenges.",
+      "industry": "Consumer hardware",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-20",
+      "fundingAmount": "€2.78M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/"
+        }
+      ]
+    },
     {
       "id": "ai-eu-startups",
       "name": "AI",
@@ -2568,68 +2630,6 @@
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/"
-        }
-      ]
-    },
-    {
-      "id": "entry-inc42",
-      "name": "Entry",
-      "logoText": "E",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/d2c-skincare-brand-asaya-bags-%e2%82%b988-cr-eyes-offline-retail-entry/",
-      "description": "D2C Skincare Brand Asaya Bags ₹88 Cr, Eyes Offline Retail Entry.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-24",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/d2c-skincare-brand-asaya-bags-%e2%82%b988-cr-eyes-offline-retail-entry/"
-        }
-      ]
-    },
-    {
-      "id": "asaya-yourstory",
-      "name": "Asaya",
-      "logoText": "A",
-      "tone": "amber",
-      "website": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a",
-      "description": "Skincare brand Asaya raises Rs 88 Cr in Series A.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-24",
-      "fundingAmount": "Amount not clear",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/08/skincare-brand-asaya-raises-rs-88-crore-in-series-a"
         }
       ]
     }
