@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-10-20T11:54:25.446Z",
+  "lastUpdated": "2026-10-21T12:07:11.413Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,99 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "series-a-eu-startups",
+      "name": "Series A",
+      "logoText": "SA",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/",
+      "description": "Transport for biological material helps Cellbox raise a €5 million Series A.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-20",
+      "fundingAmount": "€5 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/"
+        }
+      ]
+    },
+    {
+      "id": "jenz-tech-eu",
+      "name": "Jenz",
+      "logoText": "J",
+      "tone": "amber",
+      "website": "https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/",
+      "description": "Jenz lands €540K four months after hackathon win to streamline retail operations.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-21",
+      "fundingAmount": "€540K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/"
+        }
+      ]
+    },
+    {
+      "id": "chatgpt-style-tech-funding-news",
+      "name": "ChatGPT-style",
+      "logoText": "C",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/ltur-founders-son-raises-8m-series-a-ygo-travel-ai-agents-ventech/",
+      "description": "Ventech leads €8M Series A in YGO, the AI layer between travel suppliers and ChatGPT-style agents.",
+      "industry": "Travel",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-21",
+      "fundingAmount": "€8M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/ltur-founders-son-raises-8m-series-a-ygo-travel-ai-agents-ventech/"
+        }
+      ]
+    },
     {
       "id": "copenhagen-s-plinto-eu-startups",
       "name": "Copenhagen’s Plinto",
@@ -2537,99 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/"
-        }
-      ]
-    },
-    {
-      "id": "boldr-eu-startups",
-      "name": "Boldr",
-      "logoText": "B",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/",
-      "description": "Smart thermostat maker Boldr raises €4.2 million to grow connected heating and cooling platform.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-24",
-      "fundingAmount": "€4.2 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/"
-        }
-      ]
-    },
-    {
-      "id": "neno-tech-funding-news",
-      "name": "Neno",
-      "logoText": "N",
-      "tone": "teal",
-      "website": "https://techfundingnews.com/neno-raises-6-6m-to-scale-ai-accounting-platform/",
-      "description": "Ex-Mollie and Booking.com exec’s Neno raises €6.6M to build an AI accountant.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-25",
-      "fundingAmount": "€6.6M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech Funding News",
-          "url": "https://techfundingnews.com/neno-raises-6-6m-to-scale-ai-accounting-platform/"
-        }
-      ]
-    },
-    {
-      "id": "listings-inc42",
-      "name": "Listings",
-      "logoText": "L",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/",
-      "description": "Karnataka Suspends Amazon, Instamart, BigBasket Food Licences Over Toxic Datura Listings.",
-      "industry": "Consumer packaged goods",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-25",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/"
         }
       ]
     }
