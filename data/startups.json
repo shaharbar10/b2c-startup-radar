@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T12:07:11.413Z",
+  "lastUpdated": "2026-10-22T12:11:05.447Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "flapping-airplanes-techcrunch",
+      "name": "Flapping Airplanes",
+      "logoText": "FA",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "description": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-21",
+      "fundingAmount": "$1B",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+        }
+      ]
+    },
+    {
+      "id": "flapping-airplanes-tech-funding-news",
+      "name": "Flapping Airplanes",
+      "logoText": "FA",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/",
+      "description": "Flapping Airplanes raises $1B at $6B from Index and Lux to make every AI chip work harder.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-22",
+      "fundingAmount": "$1B",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/"
+        }
+      ]
+    },
     {
       "id": "series-a-eu-startups",
       "name": "Series A",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/"
-        }
-      ]
-    },
-    {
-      "id": "ringg-ai-yourstory",
-      "name": "Ringg AI",
-      "logoText": "RA",
-      "tone": "coral",
-      "website": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners",
-      "description": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-26",
-      "fundingAmount": "$10M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
-        }
-      ]
-    },
-    {
-      "id": "amsterdam-s-neno-eu-startups",
-      "name": "Amsterdam’s Neno",
-      "logoText": "AN",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/",
-      "description": "Amsterdam’s Neno raises €6.6 million to build the AI-native back office suite for entrepreneurs.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-25",
-      "fundingAmount": "€6.6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/"
         }
       ]
     }
