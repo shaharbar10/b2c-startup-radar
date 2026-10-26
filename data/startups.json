@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T12:11:05.447Z",
+  "lastUpdated": "2026-10-26T13:22:37.296Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "biostack-yourstory",
+      "name": "BioStack",
+      "logoText": "B",
+      "tone": "coral",
+      "website": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv",
+      "description": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-26",
+      "fundingAmount": "$9.5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv"
+        }
+      ]
+    },
     {
       "id": "flapping-airplanes-techcrunch",
       "name": "Flapping Airplanes",
@@ -2599,37 +2630,6 @@
         {
           "label": "TechCrunch",
           "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"
-        }
-      ]
-    },
-    {
-      "id": "lausanne-based-adaptyv-eu-startups",
-      "name": "Lausanne-based Adaptyv",
-      "logoText": "LA",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/",
-      "description": "Lausanne-based Adaptyv raises €34.35 million Series A to build the automated lab for agentic biology.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-27",
-      "fundingAmount": "€34.35 M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/"
         }
       ]
     }
