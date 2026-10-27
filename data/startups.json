@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T13:22:37.296Z",
+  "lastUpdated": "2026-10-27T12:30:08.091Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,192 @@
     }
   ],
   "companies": [
+    {
+      "id": "copenhagen-based-proptech-cortas-eu-startups",
+      "name": "Copenhagen-based PropTech Cortas",
+      "logoText": "CP",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
+      "description": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-27",
+      "fundingAmount": "€1.47 M",
+      "round": "Pre-seed",
+      "roundKey": "pre-seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/"
+        }
+      ]
+    },
+    {
+      "id": "rotoris-inc42",
+      "name": "Rotoris",
+      "logoText": "R",
+      "tone": "amber",
+      "website": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/",
+      "description": "Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-27",
+      "fundingAmount": "$8.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/"
+        }
+      ]
+    },
+    {
+      "id": "medical-ai-inc42",
+      "name": "Medical AI",
+      "logoText": "MA",
+      "tone": "coral",
+      "website": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+      "description": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-26",
+      "fundingAmount": "$9.5 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/"
+        }
+      ]
+    },
+    {
+      "id": "global-inc42",
+      "name": "Global",
+      "logoText": "G",
+      "tone": "blue",
+      "website": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/",
+      "description": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global.",
+      "industry": "Gaming",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-26",
+      "fundingAmount": "$10 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/"
+        }
+      ]
+    },
+    {
+      "id": "matiks-yourstory",
+      "name": "Matiks",
+      "logoText": "M",
+      "tone": "blue",
+      "website": "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst",
+      "description": "Matiks raises $10M in pre-Series A round led by General Catalyst.",
+      "industry": "Gaming",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-26",
+      "fundingAmount": "$10M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/10/matiks-raises-10-million-pre-series-a-round-general-catalyst"
+        }
+      ]
+    },
+    {
+      "id": "cent-yourstory",
+      "name": "Cent",
+      "logoText": "C",
+      "tone": "coral",
+      "website": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a",
+      "description": "Healthtech startup Cent raises $15M in Series A.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-27",
+      "fundingAmount": "$15M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a"
+        }
+      ]
+    },
     {
       "id": "biostack-yourstory",
       "name": "BioStack",
@@ -2444,192 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/"
-        }
-      ]
-    },
-    {
-      "id": "network-inc42",
-      "name": "Network",
-      "logoText": "N",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/",
-      "description": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-01",
-      "fundingAmount": "$35 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/"
-        }
-      ]
-    },
-    {
-      "id": "finland-s-s-transistors-eu-startups",
-      "name": "Finland’s S-Transistors",
-      "logoText": "FS",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/",
-      "description": "Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-31",
-      "fundingAmount": "€2.6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/"
-        }
-      ]
-    },
-    {
-      "id": "m-techcrunch",
-      "name": "M",
-      "logoText": "M",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "description": "Friend-focused photo-sharing app Retro snags $21M.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-28",
-      "fundingAmount": "$21M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/"
-        }
-      ]
-    },
-    {
-      "id": "ponda-eu-startups",
-      "name": "Ponda",
-      "logoText": "P",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/",
-      "description": "Biomaterials company Ponda closes crowdfunding round at €1.6 million – welcoming 256 new investors.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-28",
-      "fundingAmount": "€1.6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/"
-        }
-      ]
-    },
-    {
-      "id": "lupin-dental-eu-startups",
-      "name": "Lupin Dental",
-      "logoText": "LD",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/",
-      "description": "Montpellier-based dental robotics startup Lupin Dental closes €15 million Series A round.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-28",
-      "fundingAmount": "€15 M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/"
-        }
-      ]
-    },
-    {
-      "id": "atorie-techcrunch",
-      "name": "Atorie",
-      "logoText": "A",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "description": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-08-27",
-      "fundingAmount": "$9.5M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/"
         }
       ]
     }
