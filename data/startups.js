@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-10-28T13:17:44.979Z",
+  "lastUpdated": "2026-10-29T13:26:13.443Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "european-eu-startups",
+      "name": "European",
+      "logoText": "E",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/",
+      "description": "StrollMe bags €22 million to put more bikes, strollers and car seats into European homes.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-29",
+      "fundingAmount": "€22 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/"
+        }
+      ]
+    },
     {
       "id": "opinion-eu-startups",
       "name": "OPINION",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/"
-        }
-      ]
-    },
-    {
-      "id": "ring-techcrunch",
-      "name": "Ring",
-      "logoText": "R",
-      "tone": "teal",
-      "website": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "description": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-03",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
         }
       ]
     }
