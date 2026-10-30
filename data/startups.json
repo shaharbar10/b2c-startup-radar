@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T13:26:13.443Z",
+  "lastUpdated": "2026-10-30T13:15:37.608Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "london-s-easol-eu-startups",
+      "name": "London’s Easol",
+      "logoText": "LE",
+      "tone": "amber",
+      "website": "https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/",
+      "description": "London’s Easol secures €26.78 million Series A extension as it launches AI agents for experience businesses.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-30",
+      "fundingAmount": "€26.78 M",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/"
+        }
+      ]
+    },
+    {
+      "id": "pixel-systems-eu-startups",
+      "name": "Pixel Systems",
+      "logoText": "PS",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/",
+      "description": "Tool that identifies AI-generated material helps Pixel Systems raise €2.7 million.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-10-29",
+      "fundingAmount": "€2.7 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/"
+        }
+      ]
+    },
     {
       "id": "european-eu-startups",
       "name": "European",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/"
-        }
-      ]
-    },
-    {
-      "id": "fluencify-tech-eu",
-      "name": "Fluencify",
-      "logoText": "F",
-      "tone": "blue",
-      "website": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/",
-      "description": "Fluencify secures $4.3M to scale its creator campaign platform.",
-      "industry": "Consumer social",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-07",
-      "fundingAmount": "$4.3M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/"
-        }
-      ]
-    },
-    {
-      "id": "cato-tech-eu",
-      "name": "Cato",
-      "logoText": "C",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/",
-      "description": "Cato raises €6M to expand its AI platform for public sector sales.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-07",
-      "fundingAmount": "€6M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/"
         }
       ]
     }
