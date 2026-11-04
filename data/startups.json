@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T16:22:14.445Z",
+  "lastUpdated": "2026-11-04T14:44:59.138Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "copenhagen-s-biograil-eu-startups",
+      "name": "Copenhagen’s Biograil",
+      "logoText": "CB",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/",
+      "description": "Copenhagen’s Biograil raises €20 million for oral drug delivery device designed as an alternative to injections.",
+      "industry": "Consumer hardware",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-04",
+      "fundingAmount": "€20 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/"
+        }
+      ]
+    },
+    {
+      "id": "leipzig-based-jawbuddy-eu-startups",
+      "name": "Leipzig-based JawBuddy",
+      "logoText": "LJ",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/",
+      "description": "Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-04",
+      "fundingAmount": "€818K",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/"
+        }
+      ]
+    },
     {
       "id": "munich-s-marble-cognition-eu-startups",
       "name": "Munich’s Marble Cognition",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/"
-        }
-      ]
-    },
-    {
-      "id": "stockholm-based-fluencify-eu-startups",
-      "name": "Stockholm-based Fluencify",
-      "logoText": "SF",
-      "tone": "blue",
-      "website": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/",
-      "description": "Stockholm-based Fluencify raises €3.7 million to scale its end-to-end creator marketing platform.",
-      "industry": "Consumer social",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-07",
-      "fundingAmount": "€3.7 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/"
-        }
-      ]
-    },
-    {
-      "id": "jaipur-robotics-eu-startups",
-      "name": "Jaipur Robotics",
-      "logoText": "JR",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/",
-      "description": "Swiss startup Jaipur Robotics raises €4.3 million to expand its AI operating system across more waste-to-energy plants.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-07",
-      "fundingAmount": "€4.3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/"
         }
       ]
     }
