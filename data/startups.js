@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-11-04T14:44:59.138Z",
+  "lastUpdated": "2026-11-05T14:49:57.804Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "ridion-eu-startups",
+      "name": "RIDION",
+      "logoText": "R",
+      "tone": "teal",
+      "website": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
+      "description": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-05",
+      "fundingAmount": "€124 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/"
+        }
+      ]
+    },
+    {
+      "id": "indian-b2c-yourstory",
+      "name": "Indian B2C",
+      "logoText": "IB",
+      "tone": "amber",
+      "website": "https://yourstory.com/2026/11/vc-funding-into-indian-b2c-ecommerce-companies-dips-33-tracxn",
+      "description": "VC funding into Indian B2C ecommerce companies dips 33%: Tracxn.",
+      "industry": "Consumer commerce",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-05",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/11/vc-funding-into-indian-b2c-ecommerce-companies-dips-33-tracxn"
+        }
+      ]
+    },
     {
       "id": "copenhagen-s-biograil-eu-startups",
       "name": "Copenhagen’s Biograil",
@@ -2568,68 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/"
-        }
-      ]
-    },
-    {
-      "id": "fund-ii-eu-startups",
-      "name": "Fund II",
-      "logoText": "FI",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/clean-growth-fund-adds-institutional-backing-as-fund-ii-reaches-e94-5-million/",
-      "description": "Clean Growth Fund adds institutional backing as Fund II reaches €94.5 million.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-08",
-      "fundingAmount": "€94.5 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/clean-growth-fund-adds-institutional-backing-as-fund-ii-reaches-e94-5-million/"
-        }
-      ]
-    },
-    {
-      "id": "uk-based-veridue-eu-startups",
-      "name": "UK-based Veridue",
-      "logoText": "UV",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/",
-      "description": "UK-based Veridue secures €3.4 million to accelerate investment and project financing for renewable energy and data centres.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-08",
-      "fundingAmount": "€3.4 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/"
         }
       ]
     }
