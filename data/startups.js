@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-11-06T14:27:47.916Z",
+  "lastUpdated": "2026-11-08T13:42:33.380Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "bioliberty-eu-startups",
+      "name": "Bioliberty",
+      "logoText": "B",
+      "tone": "coral",
+      "website": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/",
+      "description": "Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-06",
+      "fundingAmount": "€2.95 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "EU-Startups",
+          "url": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/"
+        }
+      ]
+    },
     {
       "id": "siggy-crunchbase-news",
       "name": "Siggy",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
-        }
-      ]
-    },
-    {
-      "id": "limetax-eu-startups",
-      "name": "Limetax",
-      "logoText": "L",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/",
-      "description": "Limetax lands €36 million to build an AI-powered group of German tax and accounting firms.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-09",
-      "fundingAmount": "€36 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/"
         }
       ]
     }
