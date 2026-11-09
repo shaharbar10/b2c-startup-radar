@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T13:42:33.380Z",
+  "lastUpdated": "2026-11-09T16:41:48.789Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "female-tech-funding-news",
+      "name": "Female",
+      "logoText": "F",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/seva-money-5m-seed-remittance-wallets-recipient-cards/",
+      "description": "Female founder lands $5M seed to build wallets and cards for remittance receivers in India and Mexico.",
+      "industry": "Consumer fintech",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-09",
+      "fundingAmount": "$5M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/seva-money-5m-seed-remittance-wallets-recipient-cards/"
+        }
+      ]
+    },
     {
       "id": "bioliberty-eu-startups",
       "name": "Bioliberty",
@@ -2599,37 +2630,6 @@
         {
           "label": "Inc42",
           "url": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/"
-        }
-      ]
-    },
-    {
-      "id": "theater-yourstory",
-      "name": "Theater",
-      "logoText": "T",
-      "tone": "teal",
-      "website": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay",
-      "description": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-10",
-      "fundingAmount": "Amount not clear",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay"
         }
       ]
     }
