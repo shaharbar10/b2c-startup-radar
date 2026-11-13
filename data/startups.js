@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-11-09T16:41:48.789Z",
+  "lastUpdated": "2026-11-13T14:45:34.947Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "it-e27",
+      "name": "It",
+      "logoText": "I",
+      "tone": "teal",
+      "website": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
+      "description": "AI didn’t eliminate our work. It changed what our team could do.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-13",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "e27",
+          "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/"
+        }
+      ]
+    },
     {
       "id": "female-tech-funding-news",
       "name": "Female",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "YourStory",
           "url": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week"
-        }
-      ]
-    },
-    {
-      "id": "offline-inc42",
-      "name": "Offline",
-      "logoText": "O",
-      "tone": "teal",
-      "website": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/",
-      "description": "D2C Fashion Startup Theater Bags ₹75 Cr To Expand Offline.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-10",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/"
         }
       ]
     }
