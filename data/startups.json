@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T14:45:34.947Z",
+  "lastUpdated": "2026-11-14T13:42:27.671Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@
     }
   ],
   "companies": [
+    {
+      "id": "magic-yourstory",
+      "name": "MAGIC",
+      "logoText": "M",
+      "tone": "teal",
+      "website": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge",
+      "description": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-14",
+      "fundingAmount": "Amount not clear",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge"
+        }
+      ]
+    },
     {
       "id": "it-e27",
       "name": "It",
@@ -2599,37 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/"
-        }
-      ]
-    },
-    {
-      "id": "vc-yourstory",
-      "name": "VC",
-      "logoText": "V",
-      "tone": "coral",
-      "website": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week",
-      "description": "[Weekly funding roundup Sept 5-11] VC inflow doubles this week.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-11",
-      "fundingAmount": "Amount not clear",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "YourStory",
-          "url": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week"
         }
       ]
     }
