@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T13:42:27.671Z",
+  "lastUpdated": "2026-11-16T16:12:46.457Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,68 @@
     }
   ],
   "companies": [
+    {
+      "id": "bharat-semi-yourstory",
+      "name": "Bharat Semi",
+      "logoText": "BS",
+      "tone": "coral",
+      "website": "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors",
+      "description": "Bharat Semi raises $24M to develop AI-enabled sensors.",
+      "industry": "Consumer hardware",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-16",
+      "fundingAmount": "$24M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "YourStory",
+          "url": "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors"
+        }
+      ]
+    },
+    {
+      "id": "vucar-e27",
+      "name": "Vucar",
+      "logoText": "V",
+      "tone": "teal",
+      "website": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
+      "description": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-16",
+      "fundingAmount": "Amount not clear",
+      "round": "Series A",
+      "roundKey": "series-a",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "e27",
+          "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/"
+        }
+      ]
+    },
     {
       "id": "magic-yourstory",
       "name": "MAGIC",
@@ -2568,68 +2630,6 @@
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/"
-        }
-      ]
-    },
-    {
-      "id": "chift-tech-eu",
-      "name": "Chift",
-      "logoText": "C",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/",
-      "description": "Chift raises €10.5M Series A to scale financial connectivity across Europe.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-14",
-      "fundingAmount": "€10.5M",
-      "round": "Series A",
-      "roundKey": "series-a",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/"
-        }
-      ]
-    },
-    {
-      "id": "agtech-gravity-gardens-eu-startups",
-      "name": "AgTech Gravity Gardens",
-      "logoText": "AG",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/",
-      "description": "Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free seed activation technology.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-11",
-      "fundingAmount": "€2.6 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/"
         }
       ]
     }
