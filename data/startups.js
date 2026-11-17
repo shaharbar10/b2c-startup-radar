@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-11-16T16:12:46.457Z",
+  "lastUpdated": "2026-11-17T16:18:53.466Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,130 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "genesis-ai-techcrunch",
+      "name": "Genesis AI",
+      "logoText": "GA",
+      "tone": "teal",
+      "website": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "description": "Genesis AI raises $500 million to deploy glove-wearing robots.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-17",
+      "fundingAmount": "$500 M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+        }
+      ]
+    },
+    {
+      "id": "fermat-tech-eu",
+      "name": "Fermat",
+      "logoText": "F",
+      "tone": "teal",
+      "website": "https://tech.eu/2026/11/17/fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers/",
+      "description": "Fermat raises $8M to bridge the gap between fashion designers and manufacturers.",
+      "industry": "Consumer startup",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-17",
+      "fundingAmount": "$8M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/11/17/fermat-raises-8m-to-bridge-the-gap-between-fashion-designers-and-manufacturers/"
+        }
+      ]
+    },
+    {
+      "id": "treat-tech-eu",
+      "name": "Treat",
+      "logoText": "T",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/11/17/finnish-healthtech-treat-raises-eur3m-to-tackle-inefficiencies-in-private-healthcare/",
+      "description": "Finnish healthtech Treat raises €3M to tackle inefficiencies in private healthcare.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-17",
+      "fundingAmount": "€3M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/11/17/finnish-healthtech-treat-raises-eur3m-to-tackle-inefficiencies-in-private-healthcare/"
+        }
+      ]
+    },
+    {
+      "id": "fermat-tech-funding-news",
+      "name": "Fermat",
+      "logoText": "F",
+      "tone": "teal",
+      "website": "https://techfundingnews.com/fermat-raises-8m-seed-as-ai-fashion-platform-triples-revenue-and-prepares-new-york-expansion/",
+      "description": "Fermat raises $8M seed as AI fashion platform triples revenue and prepares New York expansion.",
+      "industry": "Travel",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-17",
+      "fundingAmount": "$8M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech Funding News",
+          "url": "https://techfundingnews.com/fermat-raises-8m-seed-as-ai-fashion-platform-triples-revenue-and-prepares-new-york-expansion/"
+        }
+      ]
+    },
     {
       "id": "bharat-semi-yourstory",
       "name": "Bharat Semi",
@@ -2506,130 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "Tech.eu",
           "url": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/"
-        }
-      ]
-    },
-    {
-      "id": "copenhagen-s-complir-tech-eu",
-      "name": "Copenhagen’s Complir",
-      "logoText": "CC",
-      "tone": "amber",
-      "website": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/",
-      "description": "Copenhagen’s Complir raises $11M to tackle product compliance bottlenecks.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-16",
-      "fundingAmount": "$11M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/"
-        }
-      ]
-    },
-    {
-      "id": "platform-inc42",
-      "name": "Platform",
-      "logoText": "P",
-      "tone": "amber",
-      "website": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/",
-      "description": "Firi Bags $3 Mn To Expand Beauty Quick Commerce Platform.",
-      "industry": "Consumer commerce",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-16",
-      "fundingAmount": "$3 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Inc42",
-          "url": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/"
-        }
-      ]
-    },
-    {
-      "id": "helsinki-s-zero-eu-startups",
-      "name": "Helsinki’s Zero",
-      "logoText": "HZ",
-      "tone": "teal",
-      "website": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/",
-      "description": "Helsinki’s Zero raises €8.93 million with backing from Lovable and Supercell founders to make CRM history.",
-      "industry": "Consumer startup",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-15",
-      "fundingAmount": "€8.93 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/"
-        }
-      ]
-    },
-    {
-      "id": "seed-eu-startups",
-      "name": "Seed",
-      "logoText": "S",
-      "tone": "coral",
-      "website": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/",
-      "description": "EXCLUSIVE: Switzerland’s Aeon acquires Aware Health as total Seed funding surpasses €12 million.",
-      "industry": "Consumer health",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-14",
-      "fundingAmount": "€12 M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "EU-Startups",
-          "url": "https://www.eu-startups.com/2026/09/exclusive-switzerlands-aeon-acquires-aware-health-as-total-seed-funding-passes-e12-million/"
         }
       ]
     }
