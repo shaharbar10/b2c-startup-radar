@@ -1,5 +1,5 @@
 window.STARTUP_RADAR_DATA = {
-  "lastUpdated": "2026-11-17T16:18:53.466Z",
+  "lastUpdated": "2026-11-22T14:45:45.314Z",
   "coverage": [
     "Scope changed to global B2C only: consumer apps, marketplaces, direct-to-consumer products, consumer health, consumer AI hardware, gaming, social, fintech, travel, and commerce experiences.",
     "Excluded by default: enterprise SaaS, infrastructure sold mainly to businesses, Series B or later rounds, public companies, and startups without a clear consumer-facing product.",
@@ -153,6 +153,37 @@ window.STARTUP_RADAR_DATA = {
     }
   ],
   "companies": [
+    {
+      "id": "intelliprove-tech-eu",
+      "name": "IntelliProve",
+      "logoText": "I",
+      "tone": "coral",
+      "website": "https://tech.eu/2026/11/19/intelliprove-raises-eur27m-to-bring-health-monitoring-from-smartphones-to-humanoid-robots/",
+      "description": "IntelliProve raises €2.7M to bring health monitoring from smartphones to humanoid robots.",
+      "industry": "Consumer health",
+      "location": "Global / source pending",
+      "fundingDate": "2026-11-19",
+      "fundingAmount": "€2.7M",
+      "round": "Seed",
+      "roundKey": "seed",
+      "investors": [],
+      "employees": "Not public in source",
+      "status": "fresh",
+      "tags": [
+        "Auto-discovered",
+        "Needs review"
+      ],
+      "founders": [],
+      "hiring": {
+        "status": "none"
+      },
+      "sources": [
+        {
+          "label": "Tech.eu",
+          "url": "https://tech.eu/2026/11/19/intelliprove-raises-eur27m-to-bring-health-monitoring-from-smartphones-to-humanoid-robots/"
+        }
+      ]
+    },
     {
       "id": "genesis-ai-techcrunch",
       "name": "Genesis AI",
@@ -2599,37 +2630,6 @@ window.STARTUP_RADAR_DATA = {
         {
           "label": "EU-Startups",
           "url": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/"
-        }
-      ]
-    },
-    {
-      "id": "quartz-tech-eu",
-      "name": "Quartz",
-      "logoText": "Q",
-      "tone": "teal",
-      "website": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/",
-      "description": "Quartz launches with £2.75M to build a personal banker for everyone.",
-      "industry": "Consumer fintech",
-      "location": "Global / source pending",
-      "fundingDate": "2026-09-16",
-      "fundingAmount": "£2.75M",
-      "round": "Seed",
-      "roundKey": "seed",
-      "investors": [],
-      "employees": "Not public in source",
-      "status": "fresh",
-      "tags": [
-        "Auto-discovered",
-        "Needs review"
-      ],
-      "founders": [],
-      "hiring": {
-        "status": "none"
-      },
-      "sources": [
-        {
-          "label": "Tech.eu",
-          "url": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/"
         }
       ]
     }
